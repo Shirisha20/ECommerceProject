@@ -1,0 +1,1572 @@
+<!DOCTYPE html>
+
+<html>
+  <head>
+  <meta charset='utf-8'>
+  <title>TestNG reports</title>
+
+    <link type="text/css" href="testng-reports.css" rel="stylesheet" />
+    <script type="text/javascript" src="jquery-1.7.1.min.js"></script>
+    <script type="text/javascript" src="testng-reports.js"></script>
+    <script type="text/javascript" src="https://www.google.com/jsapi"></script>
+    <script type='text/javascript'>
+      google.load('visualization', '1', {packages:['table']});
+      google.setOnLoadCallback(drawTable);
+      var suiteTableInitFunctions = new Array();
+      var suiteTableData = new Array();
+    </script>
+    <!--
+      <script type="text/javascript" src="jquery-ui/js/jquery-ui-1.8.16.custom.min.js"></script>
+     -->
+  </head>
+
+  <body>
+    <div class="top-banner-root">
+      <span class="top-banner-title-font">Test results</span>
+      <br/>
+      <span class="top-banner-font-1">1 suite</span>
+    </div> <!-- top-banner-root -->
+    <div class="navigator-root">
+      <div class="navigator-suite-header">
+        <span>All suites</span>
+        <a href="#" class="collapse-all-link" title="Collapse/expand all the suites">
+          <img class="collapse-all-icon" src="collapseall.gif">
+          </img> <!-- collapse-all-icon -->
+        </a> <!-- collapse-all-link -->
+      </div> <!-- navigator-suite-header -->
+      <div class="suite">
+        <div class="rounded-window">
+          <div class="suite-header light-rounded-window-top">
+            <a href="#" class="navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite">
+              <span class="suite-name border-skipped">Guru99 Bank Application Test Automation Test Suite</span>
+            </a> <!-- navigator-link -->
+          </div> <!-- suite-header light-rounded-window-top -->
+          <div class="navigator-suite-content">
+            <div class="suite-section-title">
+              <span>Info</span>
+            </div> <!-- suite-section-title -->
+            <div class="suite-section-content">
+              <ul>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="test-xml-Guru99_Bank_Application_Test_Automation_Test_Suite">
+                    <span>C:\Selenium_Projects\Guru99ECommerceApplication\testng.xml</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="testlist-Guru99_Bank_Application_Test_Automation_Test_Suite">
+                    <span class="test-stats">15 tests</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="group-Guru99_Bank_Application_Test_Automation_Test_Suite">
+                    <span>0 groups</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="times-Guru99_Bank_Application_Test_Automation_Test_Suite">
+                    <span>Times</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="reporter-Guru99_Bank_Application_Test_Automation_Test_Suite">
+                    <span>Reporter output</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="ignored-methods-Guru99_Bank_Application_Test_Automation_Test_Suite">
+                    <span>Ignored methods</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+                <li>
+                  <a href="#" class="navigator-link " panel-name="chronological-Guru99_Bank_Application_Test_Automation_Test_Suite">
+                    <span>Chronological view</span>
+                  </a> <!-- navigator-link  -->
+                </li>
+              </ul>
+            </div> <!-- suite-section-content -->
+            <div class="result-section">
+              <div class="suite-section-title">
+                <span>Results</span>
+              </div> <!-- suite-section-title -->
+              <div class="suite-section-content">
+                <ul>
+                  <li>
+                    <span class="method-stats">34 methods,  1 skipped,  33 passed</span>
+                  </li>
+                  <li>
+                    <span class="method-list-title skipped">Skipped methods</span>
+                    <span class="show-or-hide-methods skipped">
+                      <a href="#" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" class="hide-methods skipped suite-Guru99_Bank_Application_Test_Automation_Test_Suite"> (hide)</a> <!-- hide-methods skipped suite-Guru99_Bank_Application_Test_Automation_Test_Suite -->
+                      <a href="#" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" class="show-methods skipped suite-Guru99_Bank_Application_Test_Automation_Test_Suite"> (show)</a> <!-- show-methods skipped suite-Guru99_Bank_Application_Test_Automation_Test_Suite -->
+                    </span>
+                    <div class="method-list-content skipped suite-Guru99_Bank_Application_Test_Automation_Test_Suite">
+                      <span>
+                        <img width="3%" src="skipped.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.MyAcctTest" hash-for-method="verifyAllTest">verifyAllTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content skipped suite-Guru99_Bank_Application_Test_Automation_Test_Suite -->
+                  </li>
+                  <li>
+                    <span class="method-list-title passed">Passed methods</span>
+                    <span class="show-or-hide-methods passed">
+                      <a href="#" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" class="hide-methods passed suite-Guru99_Bank_Application_Test_Automation_Test_Suite"> (hide)</a> <!-- hide-methods passed suite-Guru99_Bank_Application_Test_Automation_Test_Suite -->
+                      <a href="#" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" class="show-methods passed suite-Guru99_Bank_Application_Test_Automation_Test_Suite"> (show)</a> <!-- show-methods passed suite-Guru99_Bank_Application_Test_Automation_Test_Suite -->
+                    </span>
+                    <div class="method-list-content passed suite-Guru99_Bank_Application_Test_Automation_Test_Suite">
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.ShoppingCartTest" hash-for-method="ClickAndUpdateQtyFieldTest">ClickAndUpdateQtyFieldTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.TvPageTest" hash-for-method="ClickOnLgAddToWishListTest">ClickOnLgAddToWishListTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.HomePageTest" hash-for-method="ClickOnMobileTest">ClickOnMobileTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.OrderNumberPageTest" hash-for-method="ClickOnPrintOrderTest">ClickOnPrintOrderTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.ShoppingCartTest" hash-for-method="ClickOnProceedToCheckOutTest">ClickOnProceedToCheckOutTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.MyWishlistPageTest" hash-for-method="ClickOnShareWishListTest">ClickOnShareWishListTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.MobilePageTest" hash-for-method="ClickOnSonyAddToCartBtnTest">ClickOnSonyAddToCartBtnTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.MobilePageTest" hash-for-method="ClickOnSonyTest">ClickOnSonyTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.HomePageTest" hash-for-method="ClickOnTvLinkTest">ClickOnTvLinkTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.MyOrderPageTest" hash-for-method="ClickOnViewOrderLinkTest">ClickOnViewOrderLinkTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.MobilePageTest" hash-for-method="ComparePricesTest">ComparePricesTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.SonyDetailedPageTest" hash-for-method="CompareSonyCostTest">CompareSonyCostTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.MobilePageTest" hash-for-method="DropDowntest">DropDowntest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.WishlistSharingPageTest" hash-for-method="EnterValuesAndClickTest">EnterValuesAndClickTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.CheckOutPageTest" hash-for-method="EnterValuesTest">EnterValuesTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.CustomerLoginTest" hash-for-method="LoginTest">LoginTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.SonyDetailedPageTest" hash-for-method="PageTitleTest">PageTitleTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.CreateNewCustomerAcctTest" hash-for-method="verifyCreateNewCustomerAcctTitleTest">verifyCreateNewCustomerAcctTitleTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.CustomerLoginTest" hash-for-method="verifyCustomerLoginHeaderTest">verifyCustomerLoginHeaderTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.SonyCheckOutTest" hash-for-method="verifyEmptyCartMsgTest">verifyEmptyCartMsgTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.SonyCheckOutTest" hash-for-method="verifyErrorMsgTest">verifyErrorMsgTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.MobilePageTest" hash-for-method="verifyMobilePageTitleTest">verifyMobilePageTitleTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.MyOrderPageTest" hash-for-method="verifyPageTitleTest">verifyPageTitleTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.MyWishlistPageTest" hash-for-method="verifyPageTitleTest">verifyPageTitleTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.ShoppingCartTest" hash-for-method="verifyPageTitleTest">verifyPageTitleTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.WishlistSharingPageTest" hash-for-method="verifyPageTitleTest">verifyPageTitleTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.HomePageTest" hash-for-method="verifySiteTitleTest">verifySiteTitleTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.SonyCheckOutTest" hash-for-method="verifySonyCheckOutPageTitleTest">verifySonyCheckOutPageTitleTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.SonyDetailedPageTest" hash-for-method="verifySonyCostTest">verifySonyCostTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.MobilePageTest" hash-for-method="verifySonyMobileCostTest">verifySonyMobileCostTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.ChangeOrReorderTest" hash-for-method="verifyTitle">verifyTitle</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.ShoppingCartTest" hash-for-method="verifyTotalPriceTest">verifyTotalPriceTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                      <span>
+                        <img width="3%" src="passed.png"/>
+                        <a href="#" class="method navigator-link" panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" title="com.guru99.qa.TestCases.TvPageTest" hash-for-method="verifyTvPageTitleTest">verifyTvPageTitleTest</a> <!-- method navigator-link -->
+                      </span>
+                      <br/>
+                    </div> <!-- method-list-content passed suite-Guru99_Bank_Application_Test_Automation_Test_Suite -->
+                  </li>
+                </ul>
+              </div> <!-- suite-section-content -->
+            </div> <!-- result-section -->
+          </div> <!-- navigator-suite-content -->
+        </div> <!-- rounded-window -->
+      </div> <!-- suite -->
+    </div> <!-- navigator-root -->
+    <div class="wrapper">
+      <div class="main-panel-root">
+        <div panel-name="suite-Guru99_Bank_Application_Test_Automation_Test_Suite" class="panel Guru99_Bank_Application_Test_Automation_Test_Suite">
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-skipped">
+            <div class="main-panel-header rounded-window-top">
+              <img src="skipped.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.MyAcctTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyAllTest">
+                  </a> <!-- verifyAllTest -->
+                  <span class="method-name">verifyAllTest</span>
+                  <div class="stack-trace">org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: &apos;3.7.1&apos;, revision: &apos;8a0099a&apos;, time: &apos;2017-11-06T21:01:39.354Z&apos;
+System info: host: &apos;NALLANS-NEWPC&apos;, ip: &apos;192.168.186.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 24700, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 4087d858-0302-4421-8a30-63896e5e612e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:193)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy12.getText(Unknown Source)
+	at com.guru99.qa.WebPages.CreateNewCustomerAcctPage.ValidRegistration(CreateNewCustomerAcctPage.java:54)
+	at com.guru99.qa.TestCases.MyAcctTest.setUp(MyAcctTest.java:45)
+... Removed 37 stack frames
+</div> <!-- stack-trace -->
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-skipped -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.MyWishlistPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="ClickOnShareWishListTest">
+                  </a> <!-- ClickOnShareWishListTest -->
+                  <span class="method-name">ClickOnShareWishListTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyPageTitleTest">
+                  </a> <!-- verifyPageTitleTest -->
+                  <span class="method-name">verifyPageTitleTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.TvPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="ClickOnLgAddToWishListTest">
+                  </a> <!-- ClickOnLgAddToWishListTest -->
+                  <span class="method-name">ClickOnLgAddToWishListTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyTvPageTitleTest">
+                  </a> <!-- verifyTvPageTitleTest -->
+                  <span class="method-name">verifyTvPageTitleTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.MyOrderPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="ClickOnViewOrderLinkTest">
+                  </a> <!-- ClickOnViewOrderLinkTest -->
+                  <span class="method-name">ClickOnViewOrderLinkTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyPageTitleTest">
+                  </a> <!-- verifyPageTitleTest -->
+                  <span class="method-name">verifyPageTitleTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.OrderNumberPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="ClickOnPrintOrderTest">
+                  </a> <!-- ClickOnPrintOrderTest -->
+                  <span class="method-name">ClickOnPrintOrderTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.MobilePageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="ClickOnSonyAddToCartBtnTest">
+                  </a> <!-- ClickOnSonyAddToCartBtnTest -->
+                  <span class="method-name">ClickOnSonyAddToCartBtnTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="ClickOnSonyTest">
+                  </a> <!-- ClickOnSonyTest -->
+                  <span class="method-name">ClickOnSonyTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="ComparePricesTest">
+                  </a> <!-- ComparePricesTest -->
+                  <span class="method-name">ComparePricesTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="DropDowntest">
+                  </a> <!-- DropDowntest -->
+                  <span class="method-name">DropDowntest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyMobilePageTitleTest">
+                  </a> <!-- verifyMobilePageTitleTest -->
+                  <span class="method-name">verifyMobilePageTitleTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifySonyMobileCostTest">
+                  </a> <!-- verifySonyMobileCostTest -->
+                  <span class="method-name">verifySonyMobileCostTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.ShoppingCartTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="ClickAndUpdateQtyFieldTest">
+                  </a> <!-- ClickAndUpdateQtyFieldTest -->
+                  <span class="method-name">ClickAndUpdateQtyFieldTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="ClickOnProceedToCheckOutTest">
+                  </a> <!-- ClickOnProceedToCheckOutTest -->
+                  <span class="method-name">ClickOnProceedToCheckOutTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyPageTitleTest">
+                  </a> <!-- verifyPageTitleTest -->
+                  <span class="method-name">verifyPageTitleTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyTotalPriceTest">
+                  </a> <!-- verifyTotalPriceTest -->
+                  <span class="method-name">verifyTotalPriceTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.SonyCheckOutTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyEmptyCartMsgTest">
+                  </a> <!-- verifyEmptyCartMsgTest -->
+                  <span class="method-name">verifyEmptyCartMsgTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyErrorMsgTest">
+                  </a> <!-- verifyErrorMsgTest -->
+                  <span class="method-name">verifyErrorMsgTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifySonyCheckOutPageTitleTest">
+                  </a> <!-- verifySonyCheckOutPageTitleTest -->
+                  <span class="method-name">verifySonyCheckOutPageTitleTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.HomePageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="ClickOnMobileTest">
+                  </a> <!-- ClickOnMobileTest -->
+                  <span class="method-name">ClickOnMobileTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="ClickOnTvLinkTest">
+                  </a> <!-- ClickOnTvLinkTest -->
+                  <span class="method-name">ClickOnTvLinkTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifySiteTitleTest">
+                  </a> <!-- verifySiteTitleTest -->
+                  <span class="method-name">verifySiteTitleTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.SonyDetailedPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="CompareSonyCostTest">
+                  </a> <!-- CompareSonyCostTest -->
+                  <span class="method-name">CompareSonyCostTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="PageTitleTest">
+                  </a> <!-- PageTitleTest -->
+                  <span class="method-name">PageTitleTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifySonyCostTest">
+                  </a> <!-- verifySonyCostTest -->
+                  <span class="method-name">verifySonyCostTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.WishlistSharingPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="EnterValuesAndClickTest">
+                  </a> <!-- EnterValuesAndClickTest -->
+                  <span class="method-name">EnterValuesAndClickTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyPageTitleTest">
+                  </a> <!-- verifyPageTitleTest -->
+                  <span class="method-name">verifyPageTitleTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.CheckOutPageTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="EnterValuesTest">
+                  </a> <!-- EnterValuesTest -->
+                  <span class="method-name">EnterValuesTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.ChangeOrReorderTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyTitle">
+                  </a> <!-- verifyTitle -->
+                  <span class="method-name">verifyTitle</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.CustomerLoginTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="LoginTest">
+                  </a> <!-- LoginTest -->
+                  <span class="method-name">LoginTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyCustomerLoginHeaderTest">
+                  </a> <!-- verifyCustomerLoginHeaderTest -->
+                  <span class="method-name">verifyCustomerLoginHeaderTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+          <div class="suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed">
+            <div class="main-panel-header rounded-window-top">
+              <img src="passed.png"/>
+              <span class="class-name">com.guru99.qa.TestCases.CreateNewCustomerAcctTest</span>
+            </div> <!-- main-panel-header rounded-window-top -->
+            <div class="main-panel-content rounded-window-bottom">
+              <div class="method">
+                <div class="method-content">
+                  <a name="verifyCreateNewCustomerAcctTitleTest">
+                  </a> <!-- verifyCreateNewCustomerAcctTitleTest -->
+                  <span class="method-name">verifyCreateNewCustomerAcctTitleTest</span>
+                </div> <!-- method-content -->
+              </div> <!-- method -->
+            </div> <!-- main-panel-content rounded-window-bottom -->
+          </div> <!-- suite-Guru99_Bank_Application_Test_Automation_Test_Suite-class-passed -->
+        </div> <!-- panel Guru99_Bank_Application_Test_Automation_Test_Suite -->
+        <div panel-name="test-xml-Guru99_Bank_Application_Test_Automation_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">C:\Selenium_Projects\Guru99ECommerceApplication\testng.xml</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <pre>
+&lt;?xml version=&quot;1.0&quot; encoding=&quot;UTF-8&quot;?&gt;
+&lt;!DOCTYPE suite SYSTEM &quot;http://testng.org/testng-1.0.dtd&quot;&gt;
+&lt;suite guice-stage=&quot;DEVELOPMENT&quot; verbose=&quot;0&quot; name=&quot;Guru99 Bank Application Test Automation Test Suite&quot;&gt;
+  &lt;listeners&gt;
+    &lt;listener class-name=&quot;com.guru99.qa.Listener.Listener&quot;/&gt;
+    &lt;listener class-name=&quot;com.guru99.qa.Analyzer.MyTransform&quot;/&gt;
+  &lt;/listeners&gt;
+  &lt;test name=&quot;CheckOutPageTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.CheckOutPageTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- CheckOutPageTest --&gt;
+  &lt;test name=&quot;CreateNewCustomerAcctTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.CreateNewCustomerAcctTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- CreateNewCustomerAcctTest --&gt;
+  &lt;test name=&quot;CustomerLoginTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.CustomerLoginTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- CustomerLoginTest --&gt;
+  &lt;test name=&quot;HomePageTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.HomePageTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- HomePageTest --&gt;
+  &lt;test name=&quot;MobilePageTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.MobilePageTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- MobilePageTest --&gt;
+  &lt;test name=&quot;MyAcctTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.MyAcctTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- MyAcctTest --&gt;
+  &lt;test name=&quot;MyOrderPageTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.MyOrderPageTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- MyOrderPageTest --&gt;
+  &lt;test name=&quot;MyWishlistPageTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.MyWishlistPageTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- MyWishlistPageTest --&gt;
+  &lt;test name=&quot;OrderNumberPageTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.OrderNumberPageTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- OrderNumberPageTest --&gt;
+  &lt;test name=&quot;ShoppingCartTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.ShoppingCartTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- ShoppingCartTest --&gt;
+  &lt;test name=&quot;SonyCheckOutTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.SonyCheckOutTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- SonyCheckOutTest --&gt;
+  &lt;test name=&quot;SonyDetailedPageTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.SonyDetailedPageTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- SonyDetailedPageTest --&gt;
+  &lt;test name=&quot;TvPageTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.TvPageTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- TvPageTest --&gt;
+  &lt;test name=&quot;WishlistSharingPageTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.WishlistSharingPageTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- WishlistSharingPageTest --&gt;
+  &lt;test name=&quot;ChangeOrReorderTest&quot;&gt;
+    &lt;classes&gt;
+      &lt;class name=&quot;com.guru99.qa.TestCases.ChangeOrReorderTest&quot;/&gt;
+    &lt;/classes&gt;
+  &lt;/test&gt; &lt;!-- ChangeOrReorderTest --&gt;
+&lt;/suite&gt; &lt;!-- Guru99 Bank Application Test Automation Test Suite --&gt;
+            </pre>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="testlist-Guru99_Bank_Application_Test_Automation_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Tests for Guru99 Bank Application Test Automation Test Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <ul>
+              <li>
+                <span class="test-name">CheckOutPageTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">CreateNewCustomerAcctTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">CustomerLoginTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">HomePageTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">MobilePageTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">MyAcctTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">MyOrderPageTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">MyWishlistPageTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">OrderNumberPageTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">ShoppingCartTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">SonyCheckOutTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">SonyDetailedPageTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">TvPageTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">WishlistSharingPageTest (1 class)</span>
+              </li>
+              <li>
+                <span class="test-name">ChangeOrReorderTest (1 class)</span>
+              </li>
+            </ul>
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="group-Guru99_Bank_Application_Test_Automation_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Groups for Guru99 Bank Application Test Automation Test Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="times-Guru99_Bank_Application_Test_Automation_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Times for Guru99 Bank Application Test Automation Test Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="times-div">
+              <script type="text/javascript">
+suiteTableInitFunctions.push('tableData_Guru99_Bank_Application_Test_Automation_Test_Suite');
+function tableData_Guru99_Bank_Application_Test_Automation_Test_Suite() {
+var data = new google.visualization.DataTable();
+data.addColumn('number', 'Number');
+data.addColumn('string', 'Method');
+data.addColumn('string', 'Class');
+data.addColumn('number', 'Time (ms)');
+data.addRows(34);
+data.setCell(0, 0, 0)
+data.setCell(0, 1, 'EnterValuesTest')
+data.setCell(0, 2, 'com.guru99.qa.TestCases.CheckOutPageTest')
+data.setCell(0, 3, 1906);
+data.setCell(1, 0, 1)
+data.setCell(1, 1, 'ComparePricesTest')
+data.setCell(1, 2, 'com.guru99.qa.TestCases.MobilePageTest')
+data.setCell(1, 3, 1727);
+data.setCell(2, 0, 2)
+data.setCell(2, 1, 'verifyErrorMsgTest')
+data.setCell(2, 2, 'com.guru99.qa.TestCases.SonyCheckOutTest')
+data.setCell(2, 3, 1474);
+data.setCell(3, 0, 3)
+data.setCell(3, 1, 'LoginTest')
+data.setCell(3, 2, 'com.guru99.qa.TestCases.CustomerLoginTest')
+data.setCell(3, 3, 1415);
+data.setCell(4, 0, 4)
+data.setCell(4, 1, 'ClickOnSonyTest')
+data.setCell(4, 2, 'com.guru99.qa.TestCases.MobilePageTest')
+data.setCell(4, 3, 1081);
+data.setCell(5, 0, 5)
+data.setCell(5, 1, 'ClickOnSonyAddToCartBtnTest')
+data.setCell(5, 2, 'com.guru99.qa.TestCases.MobilePageTest')
+data.setCell(5, 3, 911);
+data.setCell(6, 0, 6)
+data.setCell(6, 1, 'ClickAndUpdateQtyFieldTest')
+data.setCell(6, 2, 'com.guru99.qa.TestCases.ShoppingCartTest')
+data.setCell(6, 3, 666);
+data.setCell(7, 0, 7)
+data.setCell(7, 1, 'ClickOnMobileTest')
+data.setCell(7, 2, 'com.guru99.qa.TestCases.HomePageTest')
+data.setCell(7, 3, 628);
+data.setCell(8, 0, 8)
+data.setCell(8, 1, 'DropDowntest')
+data.setCell(8, 2, 'com.guru99.qa.TestCases.MobilePageTest')
+data.setCell(8, 3, 582);
+data.setCell(9, 0, 9)
+data.setCell(9, 1, 'EnterValuesAndClickTest')
+data.setCell(9, 2, 'com.guru99.qa.TestCases.WishlistSharingPageTest')
+data.setCell(9, 3, 546);
+data.setCell(10, 0, 10)
+data.setCell(10, 1, 'verifyEmptyCartMsgTest')
+data.setCell(10, 2, 'com.guru99.qa.TestCases.SonyCheckOutTest')
+data.setCell(10, 3, 496);
+data.setCell(11, 0, 11)
+data.setCell(11, 1, 'ClickOnProceedToCheckOutTest')
+data.setCell(11, 2, 'com.guru99.qa.TestCases.ShoppingCartTest')
+data.setCell(11, 3, 485);
+data.setCell(12, 0, 12)
+data.setCell(12, 1, 'ClickOnShareWishListTest')
+data.setCell(12, 2, 'com.guru99.qa.TestCases.MyWishlistPageTest')
+data.setCell(12, 3, 439);
+data.setCell(13, 0, 13)
+data.setCell(13, 1, 'ClickOnPrintOrderTest')
+data.setCell(13, 2, 'com.guru99.qa.TestCases.OrderNumberPageTest')
+data.setCell(13, 3, 426);
+data.setCell(14, 0, 14)
+data.setCell(14, 1, 'ClickOnTvLinkTest')
+data.setCell(14, 2, 'com.guru99.qa.TestCases.HomePageTest')
+data.setCell(14, 3, 394);
+data.setCell(15, 0, 15)
+data.setCell(15, 1, 'ClickOnViewOrderLinkTest')
+data.setCell(15, 2, 'com.guru99.qa.TestCases.MyOrderPageTest')
+data.setCell(15, 3, 353);
+data.setCell(16, 0, 16)
+data.setCell(16, 1, 'CompareSonyCostTest')
+data.setCell(16, 2, 'com.guru99.qa.TestCases.SonyDetailedPageTest')
+data.setCell(16, 3, 219);
+data.setCell(17, 0, 17)
+data.setCell(17, 1, 'verifySonyCostTest')
+data.setCell(17, 2, 'com.guru99.qa.TestCases.SonyDetailedPageTest')
+data.setCell(17, 3, 185);
+data.setCell(18, 0, 18)
+data.setCell(18, 1, 'verifyMobilePageTitleTest')
+data.setCell(18, 2, 'com.guru99.qa.TestCases.MobilePageTest')
+data.setCell(18, 3, 159);
+data.setCell(19, 0, 19)
+data.setCell(19, 1, 'verifySiteTitleTest')
+data.setCell(19, 2, 'com.guru99.qa.TestCases.HomePageTest')
+data.setCell(19, 3, 149);
+data.setCell(20, 0, 20)
+data.setCell(20, 1, 'verifySonyMobileCostTest')
+data.setCell(20, 2, 'com.guru99.qa.TestCases.MobilePageTest')
+data.setCell(20, 3, 134);
+data.setCell(21, 0, 21)
+data.setCell(21, 1, 'ClickOnLgAddToWishListTest')
+data.setCell(21, 2, 'com.guru99.qa.TestCases.TvPageTest')
+data.setCell(21, 3, 129);
+data.setCell(22, 0, 22)
+data.setCell(22, 1, 'verifyTotalPriceTest')
+data.setCell(22, 2, 'com.guru99.qa.TestCases.ShoppingCartTest')
+data.setCell(22, 3, 53);
+data.setCell(23, 0, 23)
+data.setCell(23, 1, 'verifyCustomerLoginHeaderTest')
+data.setCell(23, 2, 'com.guru99.qa.TestCases.CustomerLoginTest')
+data.setCell(23, 3, 37);
+data.setCell(24, 0, 24)
+data.setCell(24, 1, 'verifyCreateNewCustomerAcctTitleTest')
+data.setCell(24, 2, 'com.guru99.qa.TestCases.CreateNewCustomerAcctTest')
+data.setCell(24, 3, 15);
+data.setCell(25, 0, 25)
+data.setCell(25, 1, 'verifyTitle')
+data.setCell(25, 2, 'com.guru99.qa.TestCases.ChangeOrReorderTest')
+data.setCell(25, 3, 15);
+data.setCell(26, 0, 26)
+data.setCell(26, 1, 'verifyPageTitleTest')
+data.setCell(26, 2, 'com.guru99.qa.TestCases.MyOrderPageTest')
+data.setCell(26, 3, 11);
+data.setCell(27, 0, 27)
+data.setCell(27, 1, 'verifySonyCheckOutPageTitleTest')
+data.setCell(27, 2, 'com.guru99.qa.TestCases.SonyCheckOutTest')
+data.setCell(27, 3, 7);
+data.setCell(28, 0, 28)
+data.setCell(28, 1, 'PageTitleTest')
+data.setCell(28, 2, 'com.guru99.qa.TestCases.SonyDetailedPageTest')
+data.setCell(28, 3, 5);
+data.setCell(29, 0, 29)
+data.setCell(29, 1, 'verifyPageTitleTest')
+data.setCell(29, 2, 'com.guru99.qa.TestCases.MyWishlistPageTest')
+data.setCell(29, 3, 4);
+data.setCell(30, 0, 30)
+data.setCell(30, 1, 'verifyPageTitleTest')
+data.setCell(30, 2, 'com.guru99.qa.TestCases.ShoppingCartTest')
+data.setCell(30, 3, 4);
+data.setCell(31, 0, 31)
+data.setCell(31, 1, 'verifyTvPageTitleTest')
+data.setCell(31, 2, 'com.guru99.qa.TestCases.TvPageTest')
+data.setCell(31, 3, 3);
+data.setCell(32, 0, 32)
+data.setCell(32, 1, 'verifyPageTitleTest')
+data.setCell(32, 2, 'com.guru99.qa.TestCases.WishlistSharingPageTest')
+data.setCell(32, 3, 3);
+data.setCell(33, 0, 33)
+data.setCell(33, 1, 'verifyAllTest')
+data.setCell(33, 2, 'com.guru99.qa.TestCases.MyAcctTest')
+data.setCell(33, 3, 0);
+window.suiteTableData['Guru99_Bank_Application_Test_Automation_Test_Suite']= { tableData: data, tableDiv: 'times-div-Guru99_Bank_Application_Test_Automation_Test_Suite'}
+return data;
+}
+              </script>
+              <span class="suite-total-time">Total running time: 14 seconds</span>
+              <div id="times-div-Guru99_Bank_Application_Test_Automation_Test_Suite">
+              </div> <!-- times-div-Guru99_Bank_Application_Test_Automation_Test_Suite -->
+            </div> <!-- times-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="reporter-Guru99_Bank_Application_Test_Automation_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Reporter output for Guru99 Bank Application Test Automation Test Suite</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">EnterValuesTest</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifySiteTitleTest</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">DropDowntest</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyMobilePageTitleTest</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifySonyMobileCostTest</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">ComparePricesTest</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">ClickOnPrintOrderTest</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyErrorMsgTest</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifyEmptyCartMsgTest</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">CompareSonyCostTest</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+            <div class="reporter-method-div">
+              <span class="reporter-method-name">verifySonyCostTest</span>
+              <div class="reporter-method-output-div">
+                <span class="reporter-method-output"><br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br></span>
+              </div> <!-- reporter-method-output-div -->
+            </div> <!-- reporter-method-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="ignored-methods-Guru99_Bank_Application_Test_Automation_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">5 ignored methods</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.guru99.qa.TestCases.CheckOutPageTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">verifyPageTitleTest</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.guru99.qa.TestCases.CustomerLoginTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">ClickOnCreateAcctBtnTest</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.guru99.qa.TestCases.OrderNumberPageTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">verifyPageTitleTest</span>
+                <br/>
+                <span class="ignored-method-name">verifyPageHeaderTest</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+            <div class="ignored-class-div">
+              <span class="ignored-class-name">com.guru99.qa.TestCases.CreateNewCustomerAcctTest</span>
+              <div class="ignored-methods-div">
+                <span class="ignored-method-name">ValidRegistrationTest</span>
+                <br/>
+              </div> <!-- ignored-methods-div -->
+            </div> <!-- ignored-class-div -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+        <div panel-name="chronological-Guru99_Bank_Application_Test_Automation_Test_Suite" class="panel">
+          <div class="main-panel-header rounded-window-top">
+            <span class="header-content">Methods in chronological order</span>
+          </div> <!-- main-panel-header rounded-window-top -->
+          <div class="main-panel-content rounded-window-bottom">
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.ChangeOrReorderTest</div> <!-- chronological-class-name -->
+              <div class="configuration-suite before">
+                <span class="method-name">setExtent</span>
+                <span class="method-start">0 ms</span>
+              </div> <!-- configuration-suite before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.CheckOutPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">141 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">EnterValuesTest</span>
+                <span class="method-start">13110 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=EnterValuesTest status=SUCCESS method=CheckOutPageTest.EnterValuesTest()[pri:2, ins...)</span>
+                <span class="method-start">15016 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.CreateNewCustomerAcctTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">15156 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyCreateNewCustomerAcctTitleTest</span>
+                <span class="method-start">33937 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifyCreateNewCustomerAcctTitleTest status=SUCCESS method=CreateNewCustomerAcctTes...)</span>
+                <span class="method-start">33952 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.CustomerLoginTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">34077 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyCustomerLoginHeaderTest</span>
+                <span class="method-start">41613 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifyCustomerLoginHeaderTest status=SUCCESS method=CustomerLoginTest.verifyCustome...)</span>
+                <span class="method-start">41650 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">41806 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">LoginTest</span>
+                <span class="method-start">49402 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=LoginTest status=SUCCESS method=CustomerLoginTest.LoginTest()[pri:3, instance:com.g...)</span>
+                <span class="method-start">50817 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.HomePageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">50923 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifySiteTitleTest</span>
+                <span class="method-start">58156 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifySiteTitleTest status=SUCCESS method=HomePageTest.verifySiteTitleTest()[pri:1,...)</span>
+                <span class="method-start">58305 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">58398 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">ClickOnMobileTest</span>
+                <span class="method-start">65685 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=ClickOnMobileTest status=SUCCESS method=HomePageTest.ClickOnMobileTest()[pri:2, ins...)</span>
+                <span class="method-start">66314 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">66434 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">ClickOnTvLinkTest</span>
+                <span class="method-start">73609 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=ClickOnTvLinkTest status=SUCCESS method=HomePageTest.ClickOnTvLinkTest()[pri:3, ins...)</span>
+                <span class="method-start">74003 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.MobilePageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">74131 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyMobilePageTitleTest</span>
+                <span class="method-start">81854 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifyMobilePageTitleTest status=SUCCESS method=MobilePageTest.verifyMobilePageTitl...)</span>
+                <span class="method-start">82013 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">82212 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">DropDowntest</span>
+                <span class="method-start">90540 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=DropDowntest status=SUCCESS method=MobilePageTest.DropDowntest()[pri:2, instance:co...)</span>
+                <span class="method-start">91123 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">91317 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifySonyMobileCostTest</span>
+                <span class="method-start">99251 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifySonyMobileCostTest status=SUCCESS method=MobilePageTest.verifySonyMobileCostT...)</span>
+                <span class="method-start">99385 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">99491 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">ClickOnSonyTest</span>
+                <span class="method-start">107226 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=ClickOnSonyTest status=SUCCESS method=MobilePageTest.ClickOnSonyTest()[pri:4, insta...)</span>
+                <span class="method-start">108307 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">108547 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">ClickOnSonyAddToCartBtnTest</span>
+                <span class="method-start">116331 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=ClickOnSonyAddToCartBtnTest status=SUCCESS method=MobilePageTest.ClickOnSonyAddToCa...)</span>
+                <span class="method-start">117242 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">117373 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">ComparePricesTest</span>
+                <span class="method-start">125199 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=ComparePricesTest status=SUCCESS method=MobilePageTest.ComparePricesTest()[pri:6, i...)</span>
+                <span class="method-start">126926 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.MyAcctTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <img src="failed.png">
+                </img>
+                <span class="method-name">setUp</span>
+                <span class="method-start">127063 ms</span>
+              </div> <!-- configuration-method before -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.MyOrderPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">157054 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyPageTitleTest</span>
+                <span class="method-start">168632 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifyPageTitleTest status=SUCCESS method=MyOrderPageTest.verifyPageTitleTest()[pri...)</span>
+                <span class="method-start">168644 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">168780 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">ClickOnViewOrderLinkTest</span>
+                <span class="method-start">177999 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=ClickOnViewOrderLinkTest status=SUCCESS method=MyOrderPageTest.ClickOnViewOrderLink...)</span>
+                <span class="method-start">178353 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.MyWishlistPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">178478 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyPageTitleTest</span>
+                <span class="method-start">187923 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifyPageTitleTest status=SUCCESS method=MyWishlistPageTest.verifyPageTitleTest()[...)</span>
+                <span class="method-start">187927 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">188054 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">ClickOnShareWishListTest</span>
+                <span class="method-start">198092 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=ClickOnShareWishListTest status=SUCCESS method=MyWishlistPageTest.ClickOnShareWishL...)</span>
+                <span class="method-start">198531 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.OrderNumberPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">198667 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">ClickOnPrintOrderTest</span>
+                <span class="method-start">210286 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=ClickOnPrintOrderTest status=SUCCESS method=OrderNumberPageTest.ClickOnPrintOrderTe...)</span>
+                <span class="method-start">210712 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.ShoppingCartTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">210883 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyPageTitleTest</span>
+                <span class="method-start">221441 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifyPageTitleTest status=SUCCESS method=ShoppingCartTest.verifyPageTitleTest()[pr...)</span>
+                <span class="method-start">221445 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">221572 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">ClickOnProceedToCheckOutTest</span>
+                <span class="method-start">232206 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=ClickOnProceedToCheckOutTest status=SUCCESS method=ShoppingCartTest.ClickOnProceedT...)</span>
+                <span class="method-start">232691 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">232829 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">ClickAndUpdateQtyFieldTest</span>
+                <span class="method-start">243379 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=ClickAndUpdateQtyFieldTest status=SUCCESS method=ShoppingCartTest.ClickAndUpdateQty...)</span>
+                <span class="method-start">244045 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">244153 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyTotalPriceTest</span>
+                <span class="method-start">255025 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifyTotalPriceTest status=SUCCESS method=ShoppingCartTest.verifyTotalPriceTest()[...)</span>
+                <span class="method-start">255079 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.SonyCheckOutTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">255490 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifySonyCheckOutPageTitleTest</span>
+                <span class="method-start">265219 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifySonyCheckOutPageTitleTest status=SUCCESS method=SonyCheckOutTest.verifySonyCh...)</span>
+                <span class="method-start">265228 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">265361 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyErrorMsgTest</span>
+                <span class="method-start">273259 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifyErrorMsgTest status=SUCCESS method=SonyCheckOutTest.verifyErrorMsgTest()[pri:...)</span>
+                <span class="method-start">274733 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">274887 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyEmptyCartMsgTest</span>
+                <span class="method-start">283303 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifyEmptyCartMsgTest status=SUCCESS method=SonyCheckOutTest.verifyEmptyCartMsgTes...)</span>
+                <span class="method-start">283799 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.SonyDetailedPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">283954 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">PageTitleTest</span>
+                <span class="method-start">292728 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=PageTitleTest status=SUCCESS method=SonyDetailedPageTest.PageTitleTest()[pri:1, ins...)</span>
+                <span class="method-start">292733 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">292995 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifySonyCostTest</span>
+                <span class="method-start">302186 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifySonyCostTest status=SUCCESS method=SonyDetailedPageTest.verifySonyCostTest()[...)</span>
+                <span class="method-start">302371 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">302513 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">CompareSonyCostTest</span>
+                <span class="method-start">311654 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=CompareSonyCostTest status=SUCCESS method=SonyDetailedPageTest.CompareSonyCostTest(...)</span>
+                <span class="method-start">311873 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.TvPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">312025 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyTvPageTitleTest</span>
+                <span class="method-start">320111 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifyTvPageTitleTest status=SUCCESS method=TvPageTest.verifyTvPageTitleTest()[pri:...)</span>
+                <span class="method-start">320114 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">320241 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">ClickOnLgAddToWishListTest</span>
+                <span class="method-start">328029 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=ClickOnLgAddToWishListTest status=SUCCESS method=TvPageTest.ClickOnLgAddToWishListT...)</span>
+                <span class="method-start">328158 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.WishlistSharingPageTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">328384 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyPageTitleTest</span>
+                <span class="method-start">338958 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifyPageTitleTest status=SUCCESS method=WishlistSharingPageTest.verifyPageTitleTe...)</span>
+                <span class="method-start">338961 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">339143 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">EnterValuesAndClickTest</span>
+                <span class="method-start">349308 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=EnterValuesAndClickTest status=SUCCESS method=WishlistSharingPageTest.EnterValuesAn...)</span>
+                <span class="method-start">349854 ms</span>
+              </div> <!-- configuration-method after -->
+            </div> <!-- chronological-class -->
+            <div class="chronological-class">
+              <div class="chronological-class-name">com.guru99.qa.TestCases.ChangeOrReorderTest</div> <!-- chronological-class-name -->
+              <div class="configuration-method before">
+                <span class="method-name">setUp</span>
+                <span class="method-start">350112 ms</span>
+              </div> <!-- configuration-method before -->
+              <div class="test-method">
+                <span class="method-name">verifyTitle</span>
+                <span class="method-start">362952 ms</span>
+              </div> <!-- test-method -->
+              <div class="configuration-method after">
+                <span class="method-name">setResults([TestResult name=verifyTitle status=SUCCESS method=ChangeOrReorderTest.verifyTitle()[pri:0, instance...)</span>
+                <span class="method-start">362967 ms</span>
+              </div> <!-- configuration-method after -->
+              <div class="configuration-suite after">
+                <span class="method-name">endReport</span>
+                <span class="method-start">363170 ms</span>
+              </div> <!-- configuration-suite after -->
+          </div> <!-- main-panel-content rounded-window-bottom -->
+        </div> <!-- panel -->
+      </div> <!-- main-panel-root -->
+    </div> <!-- wrapper -->
+  </body>
+</html>

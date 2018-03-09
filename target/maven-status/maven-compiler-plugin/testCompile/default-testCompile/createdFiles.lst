@@ -1,0 +1,15 @@
+com\guru99\qa\TestCases\MyOrderPageTest.class
+com\guru99\qa\TestCases\ShoppingCartTest.class
+com\guru99\qa\TestCases\MobilePageTest.class
+com\guru99\qa\TestCases\TvPageTest.class
+com\guru99\qa\TestCases\OrderNumberPageTest.class
+com\guru99\qa\TestCases\SonyCheckOutTest.class
+com\guru99\qa\TestCases\MyAcctTest.class
+com\guru99\qa\TestCases\CheckOutPageTest.class
+com\guru99\qa\TestCases\ChangeOrReorderTest.class
+com\guru99\qa\TestCases\CustomerLoginTest.class
+com\guru99\qa\TestCases\HomePageTest.class
+com\guru99\qa\TestCases\MyWishlistPageTest.class
+com\guru99\qa\TestCases\WishlistSharingPageTest.class
+com\guru99\qa\TestCases\CreateNewCustomerAcctTest.class
+com\guru99\qa\TestCases\SonyDetailedPageTest.class

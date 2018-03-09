@@ -1,0 +1,1522 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="6" failed="1" ignored="5" total="42" passed="30">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Guru99 Bank Application Test Automation Test Suite" duration-ms="465247" started-at="2018-03-08T23:26:26Z" finished-at="2018-03-08T23:34:11Z">
+    <groups>
+    </groups>
+    <test name="CheckOutPageTest" duration-ms="18173" started-at="2018-03-08T23:26:26Z" finished-at="2018-03-08T23:26:44Z">
+      <class name="com.guru99.qa.TestCases.CheckOutPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.CheckOutPageTest@77caeb3e]" name="setUp" is-config="true" duration-ms="15592" started-at="2018-03-08T17:26:26Z" finished-at="2018-03-08T17:26:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EnterValuesTest()[pri:2, instance:com.guru99.qa.TestCases.CheckOutPageTest@77caeb3e]" name="EnterValuesTest" duration-ms="2382" started-at="2018-03-08T17:26:41Z" finished-at="2018-03-08T17:26:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EnterValuesTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.CheckOutPageTest@77caeb3e]" name="setResults" is-config="true" duration-ms="181" started-at="2018-03-08T17:26:44Z" finished-at="2018-03-08T17:26:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=EnterValuesTest status=SUCCESS method=CheckOutPageTest.EnterValuesTest()[pri:2, instance:com.guru99.qa.TestCases.CheckOutPageTest@77caeb3e] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.CheckOutPageTest -->
+    </test> <!-- CheckOutPageTest -->
+    <test name="CreateNewCustomerAcctTest" duration-ms="9114" started-at="2018-03-08T23:26:44Z" finished-at="2018-03-08T23:26:53Z">
+      <class name="com.guru99.qa.TestCases.CreateNewCustomerAcctTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.CreateNewCustomerAcctTest@13deb50e]" name="setUp" is-config="true" duration-ms="8973" started-at="2018-03-08T17:26:44Z" finished-at="2018-03-08T17:26:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCreateNewCustomerAcctTitleTest()[pri:1, instance:com.guru99.qa.TestCases.CreateNewCustomerAcctTest@13deb50e]" name="verifyCreateNewCustomerAcctTitleTest" duration-ms="12" started-at="2018-03-08T17:26:53Z" finished-at="2018-03-08T17:26:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateNewCustomerAcctTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.CreateNewCustomerAcctTest@13deb50e]" name="setResults" is-config="true" duration-ms="123" started-at="2018-03-08T17:26:53Z" finished-at="2018-03-08T17:26:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCreateNewCustomerAcctTitleTest status=SUCCESS method=CreateNewCustomerAcctTest.verifyCreateNewCustomerAcctTitleTest()[pri:1, instance:com.guru99.qa.TestCases.CreateNewCustomerAcctTest@13deb50e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.CreateNewCustomerAcctTest -->
+    </test> <!-- CreateNewCustomerAcctTest -->
+    <test name="CustomerLoginTest" duration-ms="17715" started-at="2018-03-08T23:26:53Z" finished-at="2018-03-08T23:27:11Z">
+      <class name="com.guru99.qa.TestCases.CustomerLoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.CustomerLoginTest@5f341870]" name="setUp" is-config="true" duration-ms="8162" started-at="2018-03-08T17:26:53Z" finished-at="2018-03-08T17:27:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCustomerLoginHeaderTest()[pri:1, instance:com.guru99.qa.TestCases.CustomerLoginTest@5f341870]" name="verifyCustomerLoginHeaderTest" duration-ms="37" started-at="2018-03-08T17:27:01Z" finished-at="2018-03-08T17:27:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerLoginHeaderTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.CustomerLoginTest@5f341870]" name="setResults" is-config="true" duration-ms="155" started-at="2018-03-08T17:27:01Z" finished-at="2018-03-08T17:27:01Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCustomerLoginHeaderTest status=SUCCESS method=CustomerLoginTest.verifyCustomerLoginHeaderTest()[pri:1, instance:com.guru99.qa.TestCases.CustomerLoginTest@5f341870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.CustomerLoginTest@5f341870]" name="setUp" is-config="true" duration-ms="7831" started-at="2018-03-08T17:27:01Z" finished-at="2018-03-08T17:27:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:3, instance:com.guru99.qa.TestCases.CustomerLoginTest@5f341870]" name="LoginTest" duration-ms="1382" started-at="2018-03-08T17:27:09Z" finished-at="2018-03-08T17:27:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.CustomerLoginTest@5f341870]" name="setResults" is-config="true" duration-ms="145" started-at="2018-03-08T17:27:11Z" finished-at="2018-03-08T17:27:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginTest status=SUCCESS method=CustomerLoginTest.LoginTest()[pri:3, instance:com.guru99.qa.TestCases.CustomerLoginTest@5f341870] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.CustomerLoginTest -->
+    </test> <!-- CustomerLoginTest -->
+    <test name="HomePageTest" duration-ms="19796" started-at="2018-03-08T23:27:11Z" finished-at="2018-03-08T23:27:31Z">
+      <class name="com.guru99.qa.TestCases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.HomePageTest@4cf777e8]" name="setUp" is-config="true" duration-ms="6027" started-at="2018-03-08T17:27:11Z" finished-at="2018-03-08T17:27:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySiteTitleTest()[pri:1, instance:com.guru99.qa.TestCases.HomePageTest@4cf777e8]" name="verifySiteTitleTest" duration-ms="131" started-at="2018-03-08T17:27:17Z" finished-at="2018-03-08T17:27:17Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySiteTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.HomePageTest@4cf777e8]" name="setResults" is-config="true" duration-ms="74" started-at="2018-03-08T17:27:17Z" finished-at="2018-03-08T17:27:17Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySiteTitleTest status=SUCCESS method=HomePageTest.verifySiteTitleTest()[pri:1, instance:com.guru99.qa.TestCases.HomePageTest@4cf777e8] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.HomePageTest@4cf777e8]" name="setUp" is-config="true" duration-ms="6175" started-at="2018-03-08T17:27:17Z" finished-at="2018-03-08T17:27:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnMobileTest()[pri:2, instance:com.guru99.qa.TestCases.HomePageTest@4cf777e8]" name="ClickOnMobileTest" duration-ms="604" started-at="2018-03-08T17:27:23Z" finished-at="2018-03-08T17:27:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnMobileTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.HomePageTest@4cf777e8]" name="setResults" is-config="true" duration-ms="387" started-at="2018-03-08T17:27:24Z" finished-at="2018-03-08T17:27:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnMobileTest status=SUCCESS method=HomePageTest.ClickOnMobileTest()[pri:2, instance:com.guru99.qa.TestCases.HomePageTest@4cf777e8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.HomePageTest@4cf777e8]" name="setUp" is-config="true" duration-ms="5785" started-at="2018-03-08T17:27:24Z" finished-at="2018-03-08T17:27:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnTvLinkTest()[pri:3, instance:com.guru99.qa.TestCases.HomePageTest@4cf777e8]" name="ClickOnTvLinkTest" duration-ms="500" started-at="2018-03-08T17:27:30Z" finished-at="2018-03-08T17:27:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnTvLinkTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.HomePageTest@4cf777e8]" name="setResults" is-config="true" duration-ms="109" started-at="2018-03-08T17:27:31Z" finished-at="2018-03-08T17:27:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnTvLinkTest status=SUCCESS method=HomePageTest.ClickOnTvLinkTest()[pri:3, instance:com.guru99.qa.TestCases.HomePageTest@4cf777e8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.HomePageTest -->
+    </test> <!-- HomePageTest -->
+    <test name="MobilePageTest" duration-ms="47891" started-at="2018-03-08T23:27:31Z" finished-at="2018-03-08T23:28:19Z">
+      <class name="com.guru99.qa.TestCases.MobilePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="setUp" is-config="true" duration-ms="6096" started-at="2018-03-08T17:27:31Z" finished-at="2018-03-08T17:27:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMobilePageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="verifyMobilePageTitleTest" duration-ms="133" started-at="2018-03-08T17:27:37Z" finished-at="2018-03-08T17:27:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyMobilePageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="setResults" is-config="true" duration-ms="125" started-at="2018-03-08T17:27:37Z" finished-at="2018-03-08T17:27:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyMobilePageTitleTest status=SUCCESS method=MobilePageTest.verifyMobilePageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="setUp" is-config="true" duration-ms="7666" started-at="2018-03-08T17:27:37Z" finished-at="2018-03-08T17:27:45Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DropDowntest()[pri:2, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="DropDowntest" duration-ms="566" started-at="2018-03-08T17:27:45Z" finished-at="2018-03-08T17:27:45Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DropDowntest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="setResults" is-config="true" duration-ms="123" started-at="2018-03-08T17:27:45Z" finished-at="2018-03-08T17:27:45Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DropDowntest status=SUCCESS method=MobilePageTest.DropDowntest()[pri:2, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="setUp" is-config="true" duration-ms="6765" started-at="2018-03-08T17:27:45Z" finished-at="2018-03-08T17:27:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySonyMobileCostTest()[pri:3, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="verifySonyMobileCostTest" duration-ms="130" started-at="2018-03-08T17:27:52Z" finished-at="2018-03-08T17:27:52Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySonyMobileCostTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="setResults" is-config="true" duration-ms="150" started-at="2018-03-08T17:27:52Z" finished-at="2018-03-08T17:27:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySonyMobileCostTest status=SUCCESS method=MobilePageTest.verifySonyMobileCostTest()[pri:3, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="setUp" is-config="true" duration-ms="6620" started-at="2018-03-08T17:27:52Z" finished-at="2018-03-08T17:27:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnSonyTest()[pri:4, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="ClickOnSonyTest" duration-ms="1054" started-at="2018-03-08T17:27:59Z" finished-at="2018-03-08T17:28:00Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSonyTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="setResults" is-config="true" duration-ms="128" started-at="2018-03-08T17:28:00Z" finished-at="2018-03-08T17:28:00Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnSonyTest status=SUCCESS method=MobilePageTest.ClickOnSonyTest()[pri:4, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="setUp" is-config="true" duration-ms="8067" started-at="2018-03-08T17:28:00Z" finished-at="2018-03-08T17:28:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnSonyAddToCartBtnTest()[pri:5, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="ClickOnSonyAddToCartBtnTest" duration-ms="723" started-at="2018-03-08T17:28:08Z" finished-at="2018-03-08T17:28:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSonyAddToCartBtnTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="setResults" is-config="true" duration-ms="125" started-at="2018-03-08T17:28:09Z" finished-at="2018-03-08T17:28:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnSonyAddToCartBtnTest status=SUCCESS method=MobilePageTest.ClickOnSonyAddToCartBtnTest()[pri:5, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="setUp" is-config="true" duration-ms="7675" started-at="2018-03-08T17:28:09Z" finished-at="2018-03-08T17:28:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ComparePricesTest()[pri:6, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="ComparePricesTest" duration-ms="1588" started-at="2018-03-08T17:28:17Z" finished-at="2018-03-08T17:28:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ComparePricesTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292]" name="setResults" is-config="true" duration-ms="155" started-at="2018-03-08T17:28:18Z" finished-at="2018-03-08T17:28:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ComparePricesTest status=SUCCESS method=MobilePageTest.ComparePricesTest()[pri:6, instance:com.guru99.qa.TestCases.MobilePageTest@e45f292] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.MobilePageTest -->
+    </test> <!-- MobilePageTest -->
+    <test name="MyAcctTest" duration-ms="30743" started-at="2018-03-08T23:28:19Z" finished-at="2018-03-08T23:28:49Z">
+      <class name="com.guru99.qa.TestCases.MyAcctTest">
+        <test-method status="FAIL" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyAcctTest@72d818d1]" name="setUp" is-config="true" duration-ms="30743" started-at="2018-03-08T17:28:19Z" finished-at="2018-03-08T17:28:49Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 16096, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: eac07e3c-5646-473b-aaf3-c753de2d0a0e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 16096, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: eac07e3c-5646-473b-aaf3-c753de2d0a0e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:193)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy14.getText(Unknown Source)
+	at com.guru99.qa.WebPages.CreateNewCustomerAcctPage.ValidRegistration(CreateNewCustomerAcctPage.java:54)
+	at com.guru99.qa.TestCases.MyAcctTest.setUp(MyAcctTest.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:523)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:224)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:599)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="verifyAllTest()[pri:1, instance:com.guru99.qa.TestCases.MyAcctTest@72d818d1]" name="verifyAllTest" duration-ms="0" started-at="2018-03-08T17:28:49Z" finished-at="2018-03-08T17:28:49Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 16096, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: eac07e3c-5646-473b-aaf3-c753de2d0a0e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 16096, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: eac07e3c-5646-473b-aaf3-c753de2d0a0e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:193)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy14.getText(Unknown Source)
+	at com.guru99.qa.WebPages.CreateNewCustomerAcctPage.ValidRegistration(CreateNewCustomerAcctPage.java:54)
+	at com.guru99.qa.TestCases.MyAcctTest.setUp(MyAcctTest.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:523)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:224)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:599)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllTest -->
+      </class> <!-- com.guru99.qa.TestCases.MyAcctTest -->
+    </test> <!-- MyAcctTest -->
+    <test name="MyOrderPageTest" duration-ms="19807" started-at="2018-03-08T23:28:49Z" finished-at="2018-03-08T23:29:09Z">
+      <class name="com.guru99.qa.TestCases.MyOrderPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyOrderPageTest@4566e5bd]" name="setUp" is-config="true" duration-ms="9559" started-at="2018-03-08T17:28:49Z" finished-at="2018-03-08T17:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.MyOrderPageTest@4566e5bd]" name="verifyPageTitleTest" duration-ms="7" started-at="2018-03-08T17:28:59Z" finished-at="2018-03-08T17:28:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MyOrderPageTest@4566e5bd]" name="setResults" is-config="true" duration-ms="103" started-at="2018-03-08T17:28:59Z" finished-at="2018-03-08T17:28:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPageTitleTest status=SUCCESS method=MyOrderPageTest.verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.MyOrderPageTest@4566e5bd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyOrderPageTest@4566e5bd]" name="setUp" is-config="true" duration-ms="9698" started-at="2018-03-08T17:28:59Z" finished-at="2018-03-08T17:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnViewOrderLinkTest()[pri:2, instance:com.guru99.qa.TestCases.MyOrderPageTest@4566e5bd]" name="ClickOnViewOrderLinkTest" duration-ms="358" started-at="2018-03-08T17:29:09Z" finished-at="2018-03-08T17:29:09Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnViewOrderLinkTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MyOrderPageTest@4566e5bd]" name="setResults" is-config="true" duration-ms="79" started-at="2018-03-08T17:29:09Z" finished-at="2018-03-08T17:29:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnViewOrderLinkTest status=SUCCESS method=MyOrderPageTest.ClickOnViewOrderLinkTest()[pri:2, instance:com.guru99.qa.TestCases.MyOrderPageTest@4566e5bd] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.MyOrderPageTest -->
+    </test> <!-- MyOrderPageTest -->
+    <test name="MyWishlistPageTest" duration-ms="129834" started-at="2018-03-08T23:29:09Z" finished-at="2018-03-08T23:31:19Z">
+      <class name="com.guru99.qa.TestCases.MyWishlistPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="setUp" is-config="true" duration-ms="9551" started-at="2018-03-08T17:29:09Z" finished-at="2018-03-08T17:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="verifyPageTitleTest" duration-ms="12" started-at="2018-03-08T17:29:19Z" finished-at="2018-03-08T17:29:19Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="setResults" is-config="true" duration-ms="127" started-at="2018-03-08T17:29:19Z" finished-at="2018-03-08T17:29:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPageTitleTest status=SUCCESS method=MyWishlistPageTest.verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="setUp" is-config="true" duration-ms="10481" started-at="2018-03-08T17:29:19Z" finished-at="2018-03-08T17:29:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="ClickOnShareWishListTest()[pri:2, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="ClickOnShareWishListTest" duration-ms="20077" started-at="2018-03-08T17:29:29Z" finished-at="2018-03-08T17:29:49Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 27008, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f95ccac4-650d-49d2-b1b7-b120da51fdfe
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 27008, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: f95ccac4-650d-49d2-b1b7-b120da51fdfe
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:193)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy14.click(Unknown Source)
+	at com.guru99.qa.WebPages.MyWishlistPage.ClickOnShareWishList(MyWishlistPage.java:41)
+	at com.guru99.qa.TestCases.MyWishlistPageTest.ClickOnShareWishListTest(MyWishlistPageTest.java:61)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickOnShareWishListTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="setResults" is-config="true" duration-ms="140" started-at="2018-03-08T17:29:49Z" finished-at="2018-03-08T17:29:50Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnShareWishListTest status=SKIP method=MyWishlistPageTest.ClickOnShareWishListTest()[pri:2, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="setUp" is-config="true" duration-ms="9713" started-at="2018-03-08T17:29:50Z" finished-at="2018-03-08T17:29:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="ClickOnShareWishListTest()[pri:2, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="ClickOnShareWishListTest" duration-ms="20089" started-at="2018-03-08T17:29:59Z" finished-at="2018-03-08T17:30:19Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 27200, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73a2511d-fd1f-4542-8a48-5f4536566796
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 27200, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 73a2511d-fd1f-4542-8a48-5f4536566796
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:193)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy14.click(Unknown Source)
+	at com.guru99.qa.WebPages.MyWishlistPage.ClickOnShareWishList(MyWishlistPage.java:41)
+	at com.guru99.qa.TestCases.MyWishlistPageTest.ClickOnShareWishListTest(MyWishlistPageTest.java:61)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1014)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1215)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickOnShareWishListTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="setResults" is-config="true" duration-ms="134" started-at="2018-03-08T17:30:19Z" finished-at="2018-03-08T17:30:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnShareWishListTest status=SKIP method=MyWishlistPageTest.ClickOnShareWishListTest()[pri:2, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="setUp" is-config="true" duration-ms="9597" started-at="2018-03-08T17:30:19Z" finished-at="2018-03-08T17:30:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="ClickOnShareWishListTest()[pri:2, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="ClickOnShareWishListTest" duration-ms="20083" started-at="2018-03-08T17:30:29Z" finished-at="2018-03-08T17:30:49Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 23268, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 0b25642e-8b66-4dd9-b936-9acc3fb30e22
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 23268, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 0b25642e-8b66-4dd9-b936-9acc3fb30e22
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:193)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy14.click(Unknown Source)
+	at com.guru99.qa.WebPages.MyWishlistPage.ClickOnShareWishList(MyWishlistPage.java:41)
+	at com.guru99.qa.TestCases.MyWishlistPageTest.ClickOnShareWishListTest(MyWishlistPageTest.java:61)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1014)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1215)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickOnShareWishListTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="setResults" is-config="true" duration-ms="147" started-at="2018-03-08T17:30:49Z" finished-at="2018-03-08T17:30:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnShareWishListTest status=SKIP method=MyWishlistPageTest.ClickOnShareWishListTest()[pri:2, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="setUp" is-config="true" duration-ms="9393" started-at="2018-03-08T17:30:49Z" finished-at="2018-03-08T17:30:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="FAIL" signature="ClickOnShareWishListTest()[pri:2, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="ClickOnShareWishListTest" duration-ms="20086" started-at="2018-03-08T17:30:59Z" finished-at="2018-03-08T17:31:19Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 27944, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 10d9d2a7-2b94-4f68-b98f-b3cf2a5c10c6
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 27944, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 10d9d2a7-2b94-4f68-b98f-b3cf2a5c10c6
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:193)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy14.click(Unknown Source)
+	at com.guru99.qa.WebPages.MyWishlistPage.ClickOnShareWishList(MyWishlistPage.java:41)
+	at com.guru99.qa.TestCases.MyWishlistPageTest.ClickOnShareWishListTest(MyWishlistPageTest.java:61)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:661)
+	at org.testng.internal.Invoker.retryFailed(Invoker.java:1014)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1215)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickOnShareWishListTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c]" name="setResults" is-config="true" duration-ms="203" started-at="2018-03-08T17:31:19Z" finished-at="2018-03-08T17:31:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnShareWishListTest status=FAILURE method=MyWishlistPageTest.ClickOnShareWishListTest()[pri:2, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4bec1f0c] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.MyWishlistPageTest -->
+    </test> <!-- MyWishlistPageTest -->
+    <test name="OrderNumberPageTest" duration-ms="10136" started-at="2018-03-08T23:31:19Z" finished-at="2018-03-08T23:31:29Z">
+      <class name="com.guru99.qa.TestCases.OrderNumberPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.OrderNumberPageTest@192b07fd]" name="setUp" is-config="true" duration-ms="9602" started-at="2018-03-08T17:31:19Z" finished-at="2018-03-08T17:31:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnPrintOrderTest()[pri:3, instance:com.guru99.qa.TestCases.OrderNumberPageTest@192b07fd]" name="ClickOnPrintOrderTest" duration-ms="420" started-at="2018-03-08T17:31:29Z" finished-at="2018-03-08T17:31:29Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickOnPrintOrderTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.OrderNumberPageTest@192b07fd]" name="setResults" is-config="true" duration-ms="113" started-at="2018-03-08T17:31:29Z" finished-at="2018-03-08T17:31:29Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnPrintOrderTest status=SUCCESS method=OrderNumberPageTest.ClickOnPrintOrderTest()[pri:3, instance:com.guru99.qa.TestCases.OrderNumberPageTest@192b07fd] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.OrderNumberPageTest -->
+    </test> <!-- OrderNumberPageTest -->
+    <test name="ShoppingCartTest" duration-ms="45640" started-at="2018-03-08T23:31:29Z" finished-at="2018-03-08T23:32:15Z">
+      <class name="com.guru99.qa.TestCases.ShoppingCartTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338]" name="setUp" is-config="true" duration-ms="11548" started-at="2018-03-08T17:31:29Z" finished-at="2018-03-08T17:31:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338]" name="verifyPageTitleTest" duration-ms="5" started-at="2018-03-08T17:31:41Z" finished-at="2018-03-08T17:31:41Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338]" name="setResults" is-config="true" duration-ms="131" started-at="2018-03-08T17:31:41Z" finished-at="2018-03-08T17:31:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPageTitleTest status=SUCCESS method=ShoppingCartTest.verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338]" name="setUp" is-config="true" duration-ms="10699" started-at="2018-03-08T17:31:41Z" finished-at="2018-03-08T17:31:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnProceedToCheckOutTest()[pri:2, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338]" name="ClickOnProceedToCheckOutTest" duration-ms="677" started-at="2018-03-08T17:31:52Z" finished-at="2018-03-08T17:31:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnProceedToCheckOutTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338]" name="setResults" is-config="true" duration-ms="144" started-at="2018-03-08T17:31:52Z" finished-at="2018-03-08T17:31:52Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnProceedToCheckOutTest status=SUCCESS method=ShoppingCartTest.ClickOnProceedToCheckOutTest()[pri:2, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338]" name="setUp" is-config="true" duration-ms="10702" started-at="2018-03-08T17:31:52Z" finished-at="2018-03-08T17:32:03Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickAndUpdateQtyFieldTest()[pri:3, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338]" name="ClickAndUpdateQtyFieldTest" duration-ms="663" started-at="2018-03-08T17:32:03Z" finished-at="2018-03-08T17:32:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAndUpdateQtyFieldTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338]" name="setResults" is-config="true" duration-ms="125" started-at="2018-03-08T17:32:04Z" finished-at="2018-03-08T17:32:04Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickAndUpdateQtyFieldTest status=SUCCESS method=ShoppingCartTest.ClickAndUpdateQtyFieldTest()[pri:3, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338]" name="setUp" is-config="true" duration-ms="10786" started-at="2018-03-08T17:32:04Z" finished-at="2018-03-08T17:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTotalPriceTest()[pri:4, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338]" name="verifyTotalPriceTest" duration-ms="38" started-at="2018-03-08T17:32:15Z" finished-at="2018-03-08T17:32:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTotalPriceTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338]" name="setResults" is-config="true" duration-ms="120" started-at="2018-03-08T17:32:15Z" finished-at="2018-03-08T17:32:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTotalPriceTest status=SUCCESS method=ShoppingCartTest.verifyTotalPriceTest()[pri:4, instance:com.guru99.qa.TestCases.ShoppingCartTest@7e0b0338] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.ShoppingCartTest -->
+    </test> <!-- ShoppingCartTest -->
+    <test name="SonyCheckOutTest" duration-ms="29335" started-at="2018-03-08T23:32:15Z" finished-at="2018-03-08T23:32:44Z">
+      <class name="com.guru99.qa.TestCases.SonyCheckOutTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.SonyCheckOutTest@31610302]" name="setUp" is-config="true" duration-ms="9329" started-at="2018-03-08T17:32:15Z" finished-at="2018-03-08T17:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySonyCheckOutPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.SonyCheckOutTest@31610302]" name="verifySonyCheckOutPageTitleTest" duration-ms="5" started-at="2018-03-08T17:32:24Z" finished-at="2018-03-08T17:32:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySonyCheckOutPageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.SonyCheckOutTest@31610302]" name="setResults" is-config="true" duration-ms="221" started-at="2018-03-08T17:32:24Z" finished-at="2018-03-08T17:32:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySonyCheckOutPageTitleTest status=SUCCESS method=SonyCheckOutTest.verifySonyCheckOutPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.SonyCheckOutTest@31610302] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.SonyCheckOutTest@31610302]" name="setUp" is-config="true" duration-ms="8815" started-at="2018-03-08T17:32:24Z" finished-at="2018-03-08T17:32:33Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyErrorMsgTest()[pri:2, instance:com.guru99.qa.TestCases.SonyCheckOutTest@31610302]" name="verifyErrorMsgTest" duration-ms="1434" started-at="2018-03-08T17:32:33Z" finished-at="2018-03-08T17:32:35Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyErrorMsgTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.SonyCheckOutTest@31610302]" name="setResults" is-config="true" duration-ms="152" started-at="2018-03-08T17:32:35Z" finished-at="2018-03-08T17:32:35Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyErrorMsgTest status=SUCCESS method=SonyCheckOutTest.verifyErrorMsgTest()[pri:2, instance:com.guru99.qa.TestCases.SonyCheckOutTest@31610302] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.SonyCheckOutTest@31610302]" name="setUp" is-config="true" duration-ms="8739" started-at="2018-03-08T17:32:35Z" finished-at="2018-03-08T17:32:43Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyEmptyCartMsgTest()[pri:3, instance:com.guru99.qa.TestCases.SonyCheckOutTest@31610302]" name="verifyEmptyCartMsgTest" duration-ms="503" started-at="2018-03-08T17:32:43Z" finished-at="2018-03-08T17:32:44Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyCartMsgTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.SonyCheckOutTest@31610302]" name="setResults" is-config="true" duration-ms="137" started-at="2018-03-08T17:32:44Z" finished-at="2018-03-08T17:32:44Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyEmptyCartMsgTest status=SUCCESS method=SonyCheckOutTest.verifyEmptyCartMsgTest()[pri:3, instance:com.guru99.qa.TestCases.SonyCheckOutTest@31610302] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.SonyCheckOutTest -->
+    </test> <!-- SonyCheckOutTest -->
+    <test name="SonyDetailedPageTest" duration-ms="26646" started-at="2018-03-08T23:32:44Z" finished-at="2018-03-08T23:33:11Z">
+      <class name="com.guru99.qa.TestCases.SonyDetailedPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@5ce81285]" name="setUp" is-config="true" duration-ms="8432" started-at="2018-03-08T17:32:44Z" finished-at="2018-03-08T17:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="PageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@5ce81285]" name="PageTitleTest" duration-ms="4" started-at="2018-03-08T17:32:53Z" finished-at="2018-03-08T17:32:53Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@5ce81285]" name="setResults" is-config="true" duration-ms="133" started-at="2018-03-08T17:32:53Z" finished-at="2018-03-08T17:32:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PageTitleTest status=SUCCESS method=SonyDetailedPageTest.PageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@5ce81285] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@5ce81285]" name="setUp" is-config="true" duration-ms="8768" started-at="2018-03-08T17:32:53Z" finished-at="2018-03-08T17:33:01Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySonyCostTest()[pri:2, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@5ce81285]" name="verifySonyCostTest" duration-ms="216" started-at="2018-03-08T17:33:01Z" finished-at="2018-03-08T17:33:02Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySonyCostTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@5ce81285]" name="setResults" is-config="true" duration-ms="184" started-at="2018-03-08T17:33:02Z" finished-at="2018-03-08T17:33:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySonyCostTest status=SUCCESS method=SonyDetailedPageTest.verifySonyCostTest()[pri:2, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@5ce81285] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@5ce81285]" name="setUp" is-config="true" duration-ms="8453" started-at="2018-03-08T17:33:02Z" finished-at="2018-03-08T17:33:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CompareSonyCostTest()[pri:3, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@5ce81285]" name="CompareSonyCostTest" duration-ms="215" started-at="2018-03-08T17:33:10Z" finished-at="2018-03-08T17:33:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CompareSonyCostTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@5ce81285]" name="setResults" is-config="true" duration-ms="240" started-at="2018-03-08T17:33:11Z" finished-at="2018-03-08T17:33:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CompareSonyCostTest status=SUCCESS method=SonyDetailedPageTest.CompareSonyCostTest()[pri:3, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@5ce81285] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.SonyDetailedPageTest -->
+    </test> <!-- SonyDetailedPageTest -->
+    <test name="TvPageTest" duration-ms="16377" started-at="2018-03-08T23:33:11Z" finished-at="2018-03-08T23:33:27Z">
+      <class name="com.guru99.qa.TestCases.TvPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.TvPageTest@6fc6f14e]" name="setUp" is-config="true" duration-ms="7711" started-at="2018-03-08T17:33:11Z" finished-at="2018-03-08T17:33:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTvPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.TvPageTest@6fc6f14e]" name="verifyTvPageTitleTest" duration-ms="3" started-at="2018-03-08T17:33:18Z" finished-at="2018-03-08T17:33:18Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTvPageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.TvPageTest@6fc6f14e]" name="setResults" is-config="true" duration-ms="139" started-at="2018-03-08T17:33:18Z" finished-at="2018-03-08T17:33:19Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTvPageTitleTest status=SUCCESS method=TvPageTest.verifyTvPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.TvPageTest@6fc6f14e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.TvPageTest@6fc6f14e]" name="setUp" is-config="true" duration-ms="7803" started-at="2018-03-08T17:33:19Z" finished-at="2018-03-08T17:33:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnLgAddToWishListTest()[pri:2, instance:com.guru99.qa.TestCases.TvPageTest@6fc6f14e]" name="ClickOnLgAddToWishListTest" duration-ms="579" started-at="2018-03-08T17:33:26Z" finished-at="2018-03-08T17:33:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnLgAddToWishListTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.TvPageTest@6fc6f14e]" name="setResults" is-config="true" duration-ms="140" started-at="2018-03-08T17:33:27Z" finished-at="2018-03-08T17:33:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnLgAddToWishListTest status=SUCCESS method=TvPageTest.ClickOnLgAddToWishListTest()[pri:2, instance:com.guru99.qa.TestCases.TvPageTest@6fc6f14e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.TvPageTest -->
+    </test> <!-- TvPageTest -->
+    <test name="WishlistSharingPageTest" duration-ms="29420" started-at="2018-03-08T23:33:27Z" finished-at="2018-03-08T23:33:57Z">
+      <class name="com.guru99.qa.TestCases.WishlistSharingPageTest">
+        <test-method status="FAIL" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.WishlistSharingPageTest@13a5fe33]" name="setUp" is-config="true" duration-ms="29420" started-at="2018-03-08T17:33:27Z" finished-at="2018-03-08T17:33:57Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 29016, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6273889a-47bd-41c3-a54f-90de7369db0e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 29016, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6273889a-47bd-41c3-a54f-90de7369db0e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:193)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy14.click(Unknown Source)
+	at com.guru99.qa.WebPages.MyWishlistPage.ClickOnShareWishList(MyWishlistPage.java:41)
+	at com.guru99.qa.TestCases.WishlistSharingPageTest.setUp(WishlistSharingPageTest.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:523)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:224)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:599)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.WishlistSharingPageTest@13a5fe33]" name="setUp" is-config="true" duration-ms="0" started-at="2018-03-08T17:33:57Z" finished-at="2018-03-08T17:33:57Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="EnterValuesAndClickTest()[pri:2, instance:com.guru99.qa.TestCases.WishlistSharingPageTest@13a5fe33]" name="EnterValuesAndClickTest" duration-ms="0" started-at="2018-03-08T17:33:57Z" finished-at="2018-03-08T17:33:57Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 29016, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6273889a-47bd-41c3-a54f-90de7369db0e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 29016, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6273889a-47bd-41c3-a54f-90de7369db0e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:193)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy14.click(Unknown Source)
+	at com.guru99.qa.WebPages.MyWishlistPage.ClickOnShareWishList(MyWishlistPage.java:41)
+	at com.guru99.qa.TestCases.WishlistSharingPageTest.setUp(WishlistSharingPageTest.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:523)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:224)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:599)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterValuesAndClickTest -->
+        <test-method status="SKIP" signature="verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.WishlistSharingPageTest@13a5fe33]" name="verifyPageTitleTest" duration-ms="0" started-at="2018-03-08T17:33:57Z" finished-at="2018-03-08T17:33:57Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 29016, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6273889a-47bd-41c3-a54f-90de7369db0e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 29016, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 6273889a-47bd-41c3-a54f-90de7369db0e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div[1]/form[1]/div/div/button[1]}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy10.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:193)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy14.click(Unknown Source)
+	at com.guru99.qa.WebPages.MyWishlistPage.ClickOnShareWishList(MyWishlistPage.java:41)
+	at com.guru99.qa.TestCases.WishlistSharingPageTest.setUp(WishlistSharingPageTest.java:51)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:523)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:224)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:599)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:114)
+	at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
+	at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+      </class> <!-- com.guru99.qa.TestCases.WishlistSharingPageTest -->
+    </test> <!-- WishlistSharingPageTest -->
+    <test name="ChangeOrReorderTest" duration-ms="14471" started-at="2018-03-08T23:33:57Z" finished-at="2018-03-08T23:34:11Z">
+      <class name="com.guru99.qa.TestCases.ChangeOrReorderTest">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:com.guru99.qa.TestCases.ChangeOrReorderTest@18eed359]" name="setExtent" is-config="true" duration-ms="127" started-at="2018-03-08T17:26:26Z" finished-at="2018-03-08T17:26:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.ChangeOrReorderTest@18eed359]" name="setUp" is-config="true" duration-ms="14352" started-at="2018-03-08T17:33:57Z" finished-at="2018-03-08T17:34:11Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.guru99.qa.TestCases.ChangeOrReorderTest@18eed359]" name="verifyTitle" duration-ms="2" started-at="2018-03-08T17:34:11Z" finished-at="2018-03-08T17:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.ChangeOrReorderTest@18eed359]" name="setResults" is-config="true" duration-ms="117" started-at="2018-03-08T17:34:11Z" finished-at="2018-03-08T17:34:11Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitle status=SUCCESS method=ChangeOrReorderTest.verifyTitle()[pri:0, instance:com.guru99.qa.TestCases.ChangeOrReorderTest@18eed359] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.guru99.qa.TestCases.ChangeOrReorderTest@18eed359]" name="endReport" is-config="true" duration-ms="248" started-at="2018-03-08T17:34:11Z" finished-at="2018-03-08T17:34:11Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.guru99.qa.TestCases.ChangeOrReorderTest -->
+    </test> <!-- ChangeOrReorderTest -->
+  </suite> <!-- Guru99 Bank Application Test Automation Test Suite -->
+</testng-results>

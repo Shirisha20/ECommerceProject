@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" verbose="0" name="Failed suite [Guru99 Bank Application Test Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.guru99.qa.Listener.Listener"/>
+    <listener class-name="com.guru99.qa.Analyzer.MyTransform"/>
+  </listeners>
+  <test name="MyAcctTest(failed)">
+    <classes>
+      <class name="com.guru99.qa.TestCases.MyAcctTest">
+        <methods>
+          <include name="setResults"/>
+          <include name="setUp"/>
+          <include name="setExtent"/>
+          <include name="verifyAllTest"/>
+          <include name="endReport"/>
+        </methods>
+      </class> <!-- com.guru99.qa.TestCases.MyAcctTest -->
+    </classes>
+  </test> <!-- MyAcctTest(failed) -->
+</suite> <!-- Failed suite [Guru99 Bank Application Test Automation Test Suite] -->

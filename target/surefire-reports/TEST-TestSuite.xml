@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report.xsd" name="TestSuite" time="363.936" tests="35" errors="0" skipped="1" failures="1">
+  <properties>
+    <property name="java.runtime.name" value="Java(TM) SE Runtime Environment"/>
+    <property name="sun.boot.library.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\bin"/>
+    <property name="java.vm.version" value="25.151-b12"/>
+    <property name="java.vm.vendor" value="Oracle Corporation"/>
+    <property name="maven.multiModuleProjectDirectory" value="C:\Selenium_Projects\Guru99ECommerceApplication"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="path.separator" value=";"/>
+    <property name="guice.disable.misplaced.annotation.check" value="true"/>
+    <property name="java.vm.name" value="Java HotSpot(TM) 64-Bit Server VM"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="user.script" value=""/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.os.patch.level" value=""/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="user.dir" value="C:\Selenium_Projects\Guru99ECommerceApplication"/>
+    <property name="java.runtime.version" value="1.8.0_151-b12"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.Win32GraphicsEnvironment"/>
+    <property name="java.endorsed.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\endorsed"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.io.tmpdir" value="C:\Users\venka\AppData\Local\Temp\"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.variant" value=""/>
+    <property name="os.name" value="Windows 10"/>
+    <property name="classworlds.conf" value="C:\Selenium_Projects\.metadata\.plugins\org.eclipse.m2e.launching\launches\m2conf8278408847259960208.tmp"/>
+    <property name="sun.jnu.encoding" value="Cp1252"/>
+    <property name="java.library.path" value="C:\Program Files\Java\jdk1.8.0_151\bin;C:\WINDOWS\Sun\Java\bin;C:\WINDOWS\system32;C:\WINDOWS;C:/Program Files/Java/jdk1.8.0_151/bin/../jre/bin/server;C:/Program Files/Java/jdk1.8.0_151/bin/../jre/bin;C:/Program Files/Java/jdk1.8.0_151/bin/../jre/lib/amd64;C:\Program Files (x86)\Intel\iCLS Client\;C:\Program Files\Intel\iCLS Client\;C:\Program Files\Java\jdk1.8.0_151\bin;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\Program Files\MySQL\MySQL Utilities 1.6\;C:\Selenium Jar Files\apache-maven-3.5.2\bin;C:\Python27;C:\Python27\Scripts;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files\Intel\Intel(R) Management Engine Components\DAL;C:\Program Files (x86)\Intel\Intel(R) Management Engine Components\IPT;C:\Program Files\Intel\Intel(R) Management Engine Components\IPT;C:\Users\venka\AppData\Local\Microsoft\WindowsApps;;C:\Users\venka\Desktop;;."/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.class.version" value="52.0"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="os.version" value="10.0"/>
+    <property name="user.home" value="C:\Users\venka"/>
+    <property name="user.timezone" value="America/Chicago"/>
+    <property name="java.awt.printerjob" value="sun.awt.windows.WPrinterJob"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="file.encoding" value="Cp1252"/>
+    <property name="user.name" value="venka"/>
+    <property name="java.class.path" value="C:\Users\venka\.p2\pool\plugins\org.eclipse.m2e.maven.runtime_1.8.2.20171007-0216\jars\plexus-classworlds-2.5.2.jar"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_151\jre"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher -B install"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="user.language" value="en"/>
+    <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.version" value="1.8.0_151"/>
+    <property name="java.ext.dirs" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\ext;C:\WINDOWS\Sun\Java\lib\ext"/>
+    <property name="sun.boot.class.path" value="C:\Program Files\Java\jdk1.8.0_151\jre\lib\resources.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\rt.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\sunrsasign.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jsse.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jce.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\charsets.jar;C:\Program Files\Java\jdk1.8.0_151\jre\lib\jfr.jar;C:\Program Files\Java\jdk1.8.0_151\jre\classes"/>
+    <property name="java.vendor" value="Oracle Corporation"/>
+    <property name="maven.home" value="C:\Selenium_Projects\Guru99ECommerceApplication\EMBEDDED"/>
+    <property name="file.separator" value="\"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="sun.desktop" value="windows"/>
+    <property name="sun.cpu.isalist" value="amd64"/>
+  </properties>
+  <testcase name="EnterValuesTest" classname="com.guru99.qa.TestCases.CheckOutPageTest" time="1.906"/>
+  <testcase name="verifyCreateNewCustomerAcctTitleTest" classname="com.guru99.qa.TestCases.CreateNewCustomerAcctTest" time="0"/>
+  <testcase name="verifyCustomerLoginHeaderTest" classname="com.guru99.qa.TestCases.CustomerLoginTest" time="0.037"/>
+  <testcase name="LoginTest" classname="com.guru99.qa.TestCases.CustomerLoginTest" time="1.414"/>
+  <testcase name="verifySiteTitleTest" classname="com.guru99.qa.TestCases.HomePageTest" time="0.149"/>
+  <testcase name="ClickOnMobileTest" classname="com.guru99.qa.TestCases.HomePageTest" time="0.629"/>
+  <testcase name="ClickOnTvLinkTest" classname="com.guru99.qa.TestCases.HomePageTest" time="0.394"/>
+  <testcase name="verifyMobilePageTitleTest" classname="com.guru99.qa.TestCases.MobilePageTest" time="0.158"/>
+  <testcase name="DropDowntest" classname="com.guru99.qa.TestCases.MobilePageTest" time="0.583"/>
+  <testcase name="verifySonyMobileCostTest" classname="com.guru99.qa.TestCases.MobilePageTest" time="0.134"/>
+  <testcase name="ClickOnSonyTest" classname="com.guru99.qa.TestCases.MobilePageTest" time="1.081"/>
+  <testcase name="ClickOnSonyAddToCartBtnTest" classname="com.guru99.qa.TestCases.MobilePageTest" time="0.91"/>
+  <testcase name="ComparePricesTest" classname="com.guru99.qa.TestCases.MobilePageTest" time="1.727"/>
+  <testcase name="setUp" classname="com.guru99.qa.TestCases.MyAcctTest" time="31.855">
+    <failure message="Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.7.1&apos;, revision: &apos;8a0099a&apos;, time: &apos;2017-11-06T21:01:39.354Z&apos;&#10;System info: host: &apos;NALLANS-NEWPC&apos;, ip: &apos;192.168.186.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 24700, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}&#10;Session ID: 4087d858-0302-4421-8a30-63896e5e612e&#10;*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}" type="org.openqa.selenium.NoSuchElementException">org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 24700, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 4087d858-0302-4421-8a30-63896e5e612e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}
+	at com.guru99.qa.TestCases.MyAcctTest.setUp(MyAcctTest.java:45)
+</failure>
+    <system-out><![CDATA[I am in onTestSuccess method ComparePricesTest succeed
+I am in onFinish method MobilePageTest
+I am in onStart method MyAcctTest
+Before navigating to: 'http://live.guru99.com/index.php'
+Navigated to:'http://live.guru99.com/index.php'
+Trying to find Element By : By.xpath: /html/body/div/div/div[3]/div/div[4]/ul/li[1]/a
+Found Element By : By.xpath: /html/body/div/div/div[3]/div/div[4]/ul/li[1]/a
+Trying to click on: [[FirefoxDriver: firefox on XP (4087d858-0302-4421-8a30-63896e5e612e)] -> xpath: /html/body/div/div/div[3]/div/div[4]/ul/li[1]/a]
+Clicked on: [[FirefoxDriver: firefox on XP (4087d858-0302-4421-8a30-63896e5e612e)] -> xpath: /html/body/div/div/div[3]/div/div[4]/ul/li[1]/a]
+Trying to find Element By : By.xpath: //span[contains(text(),'Create an Account')]
+Found Element By : By.xpath: //span[contains(text(),'Create an Account')]
+Trying to click on: [[FirefoxDriver: firefox on XP (4087d858-0302-4421-8a30-63896e5e612e)] -> xpath: //span[contains(text(),'Create an Account')]]
+Clicked on: [[FirefoxDriver: firefox on XP (4087d858-0302-4421-8a30-63896e5e612e)] -> xpath: //span[contains(text(),'Create an Account')]]
+Trying to find Element By : By.xpath: //input[@name='firstname']
+Found Element By : By.xpath: //input[@name='firstname']
+Trying to find Element By : By.xpath: //input[@name='lastname']
+Found Element By : By.xpath: //input[@name='lastname']
+Trying to find Element By : By.xpath: //input[@name='email']
+Found Element By : By.xpath: //input[@name='email']
+Trying to find Element By : By.xpath: //input[@name='password']
+Found Element By : By.xpath: //input[@name='password']
+Trying to find Element By : By.xpath: //input[@name='confirmation']
+Found Element By : By.xpath: //input[@name='confirmation']
+Trying to find Element By : By.xpath: //span[contains(text(), 'Register')]
+Found Element By : By.xpath: //span[contains(text(), 'Register')]
+Trying to click on: [[FirefoxDriver: firefox on XP (4087d858-0302-4421-8a30-63896e5e612e)] -> xpath: //span[contains(text(), 'Register')]]
+Clicked on: [[FirefoxDriver: firefox on XP (4087d858-0302-4421-8a30-63896e5e612e)] -> xpath: //span[contains(text(), 'Register')]]
+Trying to find Element By : By.xpath: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+Exception occured: org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 24700, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 4087d858-0302-4421-8a30-63896e5e612e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}
+]]></system-out>
+    <system-err><![CDATA[1520552561575	geckodriver	INFO	geckodriver 0.19.1
+1520552561589	geckodriver	INFO	Listening on 127.0.0.1:23508
+1520552562042	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-profile" "C:\\Users\\venka\\AppData\\Local\\Temp\\rust_mozprofile.EspO51tvFsLl"
+1520552562742	addons.xpi	WARN	Error parsing extensions state: [Exception... "Component returned failure code: 0x80520012 (NS_ERROR_FILE_NOT_FOUND) [amIAddonManagerStartup.readStartupData]"  nsresult: "0x80520012 (NS_ERROR_FILE_NOT_FOUND)"  location: "JS frame :: resource://gre/modules/addons/XPIProvider.jsm :: loadExtensionState :: line 1554"  data: no] Stack trace: loadExtensionState()@resource://gre/modules/addons/XPIProvider.jsm:1554 < getInstallState()@resource://gre/modules/addons/XPIProvider.jsm:1589 < checkForChanges()@resource://gre/modules/addons/XPIProvider.jsm:3109 < startup()@resource://gre/modules/addons/XPIProvider.jsm:2188 < callProvider()@resource://gre/modules/AddonManager.jsm:269 < _startProvider()@resource://gre/modules/AddonManager.jsm:739 < startup()@resource://gre/modules/AddonManager.jsm:906 < startup()@resource://gre/modules/AddonManager.jsm:3090 < observe()@jar:file:///C:/Program%20Files/Mozilla%20Firefox/omni.ja!/components/addonManager.js:65
+Unable to read VR Path Registry from C:\Users\venka\AppData\Local\openvr\openvrpaths.vrpath
+1520552564314	Marionette	INFO	Enabled via --marionette
+Unable to read VR Path Registry from C:\Users\venka\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\venka\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\venka\AppData\Local\openvr\openvrpaths.vrpath
+Unable to read VR Path Registry from C:\Users\venka\AppData\Local\openvr\openvrpaths.vrpath
+[Child 30452] WARNING: pipe error: 109: file z:/build/build/src/ipc/chromium/src/chrome/common/ipc_channel_win.cc, line 346
+[Child 30452] WARNING: pipe error: 109: fi1520552567617	Marionette	INFO	Listening on port 64783
+1520552567922	Marionette	WARN	TLS certificate errors will be ignored for this session
+1520552567958	Marionette	DEBUG	Register listener.js for window 6442450945
+Mar 08, 2018 5:42:47 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+1520552568025	Marionette	DEBUG	Received DOM event "beforeunload" for "about:blank"
+1520552568163	Marionette	DEBUG	Received DOM event "pagehide" for "about:blank"
+1520552568164	Marionette	DEBUG	Received DOM event "unload" for "about:blank"
+1520552569149	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://live.guru99.com/index.php"
+1520552569192	Marionette	DEBUG	Received DOM event "pageshow" for "http://live.guru99.com/index.php"
+1520552569253	Marionette	DEBUG	Received DOM event "beforeunload" for "http://live.guru99.com/index.php"
+1520552569479	Marionette	DEBUG	Received DOM event "pagehide" for "http://live.guru99.com/index.php"
+1520552569479	Marionette	DEBUG	Received DOM event "unload" for "http://live.guru99.com/index.php"
+1520552569620	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://live.guru99.com/index.php/customer/account/login/"
+1520552569626	Marionette	DEBUG	Received DOM event "pageshow" for "http://live.guru99.com/index.php/customer/account/login/"
+1520552569687	Marionette	DEBUG	Received DOM event "beforeunload" for "http://live.guru99.com/index.php/customer/account/login/"
+1520552569811	Marionette	DEBUG	Received DOM event "pagehide" for "http://live.guru99.com/index.php/customer/account/login/"
+1520552569811	Marionette	DEBUG	Received DOM event "unload" for "http://live.guru99.com/index.php/customer/account/login/"
+1520552569977	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://live.guru99.com/index.php/customer/account/create/"
+1520552569980	Marionette	DEBUG	Received DOM event "pageshow" for "http://live.guru99.com/index.php/customer/account/create/"
+1520552570169	Marionette	DEBUG	Received DOM event "beforeunload" for "http://live.guru99.com/index.php/customer/account/create/"
+1520552571188	Marionette	DEBUG	Received DOM event "pagehide" for "http://live.guru99.com/index.php/customer/account/create/"
+1520552571188	Marionette	DEBUG	Received DOM event "unload" for "http://live.guru99.com/index.php/customer/account/create/"
+1520552571317	Marionette	DEBUG	Received DOM event "DOMContentLoaded" for "http://live.guru99.com/index.php/customer/account/create/"
+1520552571319	Marionette	DEBUG	Received DOM event "pageshow" for "http://live.guru99.com/index.php/customer/account/create/"
+]]></system-err>
+  </testcase>
+  <testcase name="verifyAllTest" classname="com.guru99.qa.TestCases.MyAcctTest" time="0">
+    <skipped message="Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span&#10;For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html&#10;Build info: version: &apos;3.7.1&apos;, revision: &apos;8a0099a&apos;, time: &apos;2017-11-06T21:01:39.354Z&apos;&#10;System info: host: &apos;NALLANS-NEWPC&apos;, ip: &apos;192.168.186.1&apos;, os.name: &apos;Windows 10&apos;, os.arch: &apos;amd64&apos;, os.version: &apos;10.0&apos;, java.version: &apos;1.8.0_151&apos;&#10;Driver info: org.openqa.selenium.firefox.FirefoxDriver&#10;Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 24700, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}&#10;Session ID: 4087d858-0302-4421-8a30-63896e5e612e&#10;*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}"/>
+  </testcase>
+  <testcase name="verifyPageTitleTest" classname="com.guru99.qa.TestCases.MyOrderPageTest" time="0.012"/>
+  <testcase name="ClickOnViewOrderLinkTest" classname="com.guru99.qa.TestCases.MyOrderPageTest" time="0.354"/>
+  <testcase name="verifyPageTitleTest" classname="com.guru99.qa.TestCases.MyWishlistPageTest" time="0.004"/>
+  <testcase name="ClickOnShareWishListTest" classname="com.guru99.qa.TestCases.MyWishlistPageTest" time="0.439"/>
+  <testcase name="ClickOnPrintOrderTest" classname="com.guru99.qa.TestCases.OrderNumberPageTest" time="0.427"/>
+  <testcase name="verifyPageTitleTest" classname="com.guru99.qa.TestCases.ShoppingCartTest" time="0.004"/>
+  <testcase name="ClickOnProceedToCheckOutTest" classname="com.guru99.qa.TestCases.ShoppingCartTest" time="0.485"/>
+  <testcase name="ClickAndUpdateQtyFieldTest" classname="com.guru99.qa.TestCases.ShoppingCartTest" time="0.666"/>
+  <testcase name="verifyTotalPriceTest" classname="com.guru99.qa.TestCases.ShoppingCartTest" time="0.054"/>
+  <testcase name="verifySonyCheckOutPageTitleTest" classname="com.guru99.qa.TestCases.SonyCheckOutTest" time="0.009"/>
+  <testcase name="verifyErrorMsgTest" classname="com.guru99.qa.TestCases.SonyCheckOutTest" time="1.474"/>
+  <testcase name="verifyEmptyCartMsgTest" classname="com.guru99.qa.TestCases.SonyCheckOutTest" time="0.495"/>
+  <testcase name="PageTitleTest" classname="com.guru99.qa.TestCases.SonyDetailedPageTest" time="0.005"/>
+  <testcase name="verifySonyCostTest" classname="com.guru99.qa.TestCases.SonyDetailedPageTest" time="0.184"/>
+  <testcase name="CompareSonyCostTest" classname="com.guru99.qa.TestCases.SonyDetailedPageTest" time="0.219"/>
+  <testcase name="verifyTvPageTitleTest" classname="com.guru99.qa.TestCases.TvPageTest" time="0.003"/>
+  <testcase name="ClickOnLgAddToWishListTest" classname="com.guru99.qa.TestCases.TvPageTest" time="0.129"/>
+  <testcase name="verifyPageTitleTest" classname="com.guru99.qa.TestCases.WishlistSharingPageTest" time="0.003"/>
+  <testcase name="EnterValuesAndClickTest" classname="com.guru99.qa.TestCases.WishlistSharingPageTest" time="0.545"/>
+  <testcase name="verifyTitle" classname="com.guru99.qa.TestCases.ChangeOrReorderTest" time="0.015"/>
+</testsuite>

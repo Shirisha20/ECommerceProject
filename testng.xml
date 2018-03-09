@@ -1,0 +1,100 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Guru99 Bank Application Test Automation Test Suite">
+
+<listeners>
+<listener class-name="com.guru99.qa.Listener.Listener"></listener>
+<listener class-name="com.guru99.qa.Analyzer.MyTransform"></listener>
+</listeners>
+
+<test name="CheckOutPageTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.CheckOutPageTest"/>
+	</classes>
+</test>
+
+<test name="CreateNewCustomerAcctTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.CreateNewCustomerAcctTest"/>
+	</classes>
+</test>
+
+<test name="CustomerLoginTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.CustomerLoginTest"/>
+	</classes>
+</test>
+
+<test name="HomePageTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.HomePageTest"/>
+	</classes>
+</test>
+
+<test name="MobilePageTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.MobilePageTest"/>
+	</classes>
+</test>
+
+<test name="MyAcctTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.MyAcctTest"/>
+	</classes>
+</test>
+
+<test name="MyOrderPageTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.MyOrderPageTest"/>
+	</classes>
+</test>
+
+<test name="MyWishlistPageTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.MyWishlistPageTest"/>
+	</classes>
+</test>
+
+<test name="OrderNumberPageTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.OrderNumberPageTest"/>
+	</classes>
+</test>
+
+<test name="ShoppingCartTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.ShoppingCartTest"/>
+	</classes>
+</test>
+
+<test name="SonyCheckOutTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.SonyCheckOutTest"/>
+	</classes>
+</test>
+
+<test name="SonyDetailedPageTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.SonyDetailedPageTest"/>
+	</classes>
+</test>
+
+<test name="TvPageTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.TvPageTest"/>
+	</classes>
+</test>
+
+<test name="WishlistSharingPageTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.WishlistSharingPageTest"/>
+	</classes>
+</test>
+
+ <test name="ChangeOrReorderTest">
+	<classes>
+		<class name="com.guru99.qa.TestCases.ChangeOrReorderTest"/>
+	</classes>
+</test>
+
+
+</suite>

@@ -1,0 +1,946 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="1" failed="0" ignored="5" total="39" passed="33">
+  <reporter-output>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+    <line>
+      <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+    </line>
+  </reporter-output>
+  <suite name="Guru99 Bank Application Test Automation Test Suite" duration-ms="363029" started-at="2018-03-08T23:40:34Z" finished-at="2018-03-08T23:46:37Z">
+    <groups>
+    </groups>
+    <test name="CheckOutPageTest" duration-ms="14985" started-at="2018-03-08T23:40:34Z" finished-at="2018-03-08T23:40:49Z">
+      <class name="com.guru99.qa.TestCases.CheckOutPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.CheckOutPageTest@4e04a765]" name="setUp" is-config="true" duration-ms="12969" started-at="2018-03-08T17:40:34Z" finished-at="2018-03-08T17:40:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EnterValuesTest()[pri:2, instance:com.guru99.qa.TestCases.CheckOutPageTest@4e04a765]" name="EnterValuesTest" duration-ms="1906" started-at="2018-03-08T17:40:47Z" finished-at="2018-03-08T17:40:49Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- EnterValuesTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.CheckOutPageTest@4e04a765]" name="setResults" is-config="true" duration-ms="110" started-at="2018-03-08T17:40:49Z" finished-at="2018-03-08T17:40:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=EnterValuesTest status=SUCCESS method=CheckOutPageTest.EnterValuesTest()[pri:2, instance:com.guru99.qa.TestCases.CheckOutPageTest@4e04a765] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.CheckOutPageTest -->
+    </test> <!-- CheckOutPageTest -->
+    <test name="CreateNewCustomerAcctTest" duration-ms="18906" started-at="2018-03-08T23:40:49Z" finished-at="2018-03-08T23:41:08Z">
+      <class name="com.guru99.qa.TestCases.CreateNewCustomerAcctTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.CreateNewCustomerAcctTest@4909b8da]" name="setUp" is-config="true" duration-ms="18781" started-at="2018-03-08T17:40:49Z" finished-at="2018-03-08T17:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCreateNewCustomerAcctTitleTest()[pri:1, instance:com.guru99.qa.TestCases.CreateNewCustomerAcctTest@4909b8da]" name="verifyCreateNewCustomerAcctTitleTest" duration-ms="15" started-at="2018-03-08T17:41:08Z" finished-at="2018-03-08T17:41:08Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCreateNewCustomerAcctTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.CreateNewCustomerAcctTest@4909b8da]" name="setResults" is-config="true" duration-ms="110" started-at="2018-03-08T17:41:08Z" finished-at="2018-03-08T17:41:08Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCreateNewCustomerAcctTitleTest status=SUCCESS method=CreateNewCustomerAcctTest.verifyCreateNewCustomerAcctTitleTest()[pri:1, instance:com.guru99.qa.TestCases.CreateNewCustomerAcctTest@4909b8da] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.CreateNewCustomerAcctTest -->
+    </test> <!-- CreateNewCustomerAcctTest -->
+    <test name="CustomerLoginTest" duration-ms="16830" started-at="2018-03-08T23:41:08Z" finished-at="2018-03-08T23:41:25Z">
+      <class name="com.guru99.qa.TestCases.CustomerLoginTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.CustomerLoginTest@366e2eef]" name="setUp" is-config="true" duration-ms="7536" started-at="2018-03-08T17:41:08Z" finished-at="2018-03-08T17:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyCustomerLoginHeaderTest()[pri:1, instance:com.guru99.qa.TestCases.CustomerLoginTest@366e2eef]" name="verifyCustomerLoginHeaderTest" duration-ms="37" started-at="2018-03-08T17:41:16Z" finished-at="2018-03-08T17:41:16Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCustomerLoginHeaderTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.CustomerLoginTest@366e2eef]" name="setResults" is-config="true" duration-ms="156" started-at="2018-03-08T17:41:16Z" finished-at="2018-03-08T17:41:16Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyCustomerLoginHeaderTest status=SUCCESS method=CustomerLoginTest.verifyCustomerLoginHeaderTest()[pri:1, instance:com.guru99.qa.TestCases.CustomerLoginTest@366e2eef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.CustomerLoginTest@366e2eef]" name="setUp" is-config="true" duration-ms="7596" started-at="2018-03-08T17:41:16Z" finished-at="2018-03-08T17:41:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="LoginTest()[pri:3, instance:com.guru99.qa.TestCases.CustomerLoginTest@366e2eef]" name="LoginTest" duration-ms="1415" started-at="2018-03-08T17:41:23Z" finished-at="2018-03-08T17:41:25Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoginTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.CustomerLoginTest@366e2eef]" name="setResults" is-config="true" duration-ms="90" started-at="2018-03-08T17:41:25Z" finished-at="2018-03-08T17:41:25Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=LoginTest status=SUCCESS method=CustomerLoginTest.LoginTest()[pri:3, instance:com.guru99.qa.TestCases.CustomerLoginTest@366e2eef] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.CustomerLoginTest -->
+    </test> <!-- CustomerLoginTest -->
+    <test name="HomePageTest" duration-ms="23208" started-at="2018-03-08T23:41:25Z" finished-at="2018-03-08T23:41:48Z">
+      <class name="com.guru99.qa.TestCases.HomePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.HomePageTest@531be3c5]" name="setUp" is-config="true" duration-ms="7233" started-at="2018-03-08T17:41:25Z" finished-at="2018-03-08T17:41:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySiteTitleTest()[pri:1, instance:com.guru99.qa.TestCases.HomePageTest@531be3c5]" name="verifySiteTitleTest" duration-ms="149" started-at="2018-03-08T17:41:32Z" finished-at="2018-03-08T17:41:32Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySiteTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.HomePageTest@531be3c5]" name="setResults" is-config="true" duration-ms="93" started-at="2018-03-08T17:41:32Z" finished-at="2018-03-08T17:41:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySiteTitleTest status=SUCCESS method=HomePageTest.verifySiteTitleTest()[pri:1, instance:com.guru99.qa.TestCases.HomePageTest@531be3c5] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.HomePageTest@531be3c5]" name="setUp" is-config="true" duration-ms="7287" started-at="2018-03-08T17:41:32Z" finished-at="2018-03-08T17:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnMobileTest()[pri:2, instance:com.guru99.qa.TestCases.HomePageTest@531be3c5]" name="ClickOnMobileTest" duration-ms="628" started-at="2018-03-08T17:41:40Z" finished-at="2018-03-08T17:41:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnMobileTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.HomePageTest@531be3c5]" name="setResults" is-config="true" duration-ms="120" started-at="2018-03-08T17:41:40Z" finished-at="2018-03-08T17:41:40Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnMobileTest status=SUCCESS method=HomePageTest.ClickOnMobileTest()[pri:2, instance:com.guru99.qa.TestCases.HomePageTest@531be3c5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.HomePageTest@531be3c5]" name="setUp" is-config="true" duration-ms="7175" started-at="2018-03-08T17:41:40Z" finished-at="2018-03-08T17:41:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnTvLinkTest()[pri:3, instance:com.guru99.qa.TestCases.HomePageTest@531be3c5]" name="ClickOnTvLinkTest" duration-ms="394" started-at="2018-03-08T17:41:47Z" finished-at="2018-03-08T17:41:48Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnTvLinkTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.HomePageTest@531be3c5]" name="setResults" is-config="true" duration-ms="128" started-at="2018-03-08T17:41:48Z" finished-at="2018-03-08T17:41:48Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnTvLinkTest status=SUCCESS method=HomePageTest.ClickOnTvLinkTest()[pri:3, instance:com.guru99.qa.TestCases.HomePageTest@531be3c5] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.HomePageTest -->
+    </test> <!-- HomePageTest -->
+    <test name="MobilePageTest" duration-ms="52932" started-at="2018-03-08T23:41:48Z" finished-at="2018-03-08T23:42:41Z">
+      <class name="com.guru99.qa.TestCases.MobilePageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="setUp" is-config="true" duration-ms="7723" started-at="2018-03-08T17:41:48Z" finished-at="2018-03-08T17:41:56Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyMobilePageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="verifyMobilePageTitleTest" duration-ms="159" started-at="2018-03-08T17:41:56Z" finished-at="2018-03-08T17:41:56Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyMobilePageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="setResults" is-config="true" duration-ms="199" started-at="2018-03-08T17:41:56Z" finished-at="2018-03-08T17:41:56Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyMobilePageTitleTest status=SUCCESS method=MobilePageTest.verifyMobilePageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="setUp" is-config="true" duration-ms="8328" started-at="2018-03-08T17:41:56Z" finished-at="2018-03-08T17:42:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="DropDowntest()[pri:2, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="DropDowntest" duration-ms="582" started-at="2018-03-08T17:42:04Z" finished-at="2018-03-08T17:42:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- DropDowntest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="setResults" is-config="true" duration-ms="194" started-at="2018-03-08T17:42:05Z" finished-at="2018-03-08T17:42:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=DropDowntest status=SUCCESS method=MobilePageTest.DropDowntest()[pri:2, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="setUp" is-config="true" duration-ms="7934" started-at="2018-03-08T17:42:05Z" finished-at="2018-03-08T17:42:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySonyMobileCostTest()[pri:3, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="verifySonyMobileCostTest" duration-ms="134" started-at="2018-03-08T17:42:13Z" finished-at="2018-03-08T17:42:13Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySonyMobileCostTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="setResults" is-config="true" duration-ms="106" started-at="2018-03-08T17:42:13Z" finished-at="2018-03-08T17:42:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySonyMobileCostTest status=SUCCESS method=MobilePageTest.verifySonyMobileCostTest()[pri:3, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="setUp" is-config="true" duration-ms="7735" started-at="2018-03-08T17:42:13Z" finished-at="2018-03-08T17:42:21Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnSonyTest()[pri:4, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="ClickOnSonyTest" duration-ms="1081" started-at="2018-03-08T17:42:21Z" finished-at="2018-03-08T17:42:22Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSonyTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="setResults" is-config="true" duration-ms="240" started-at="2018-03-08T17:42:22Z" finished-at="2018-03-08T17:42:22Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnSonyTest status=SUCCESS method=MobilePageTest.ClickOnSonyTest()[pri:4, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="setUp" is-config="true" duration-ms="7784" started-at="2018-03-08T17:42:22Z" finished-at="2018-03-08T17:42:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnSonyAddToCartBtnTest()[pri:5, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="ClickOnSonyAddToCartBtnTest" duration-ms="911" started-at="2018-03-08T17:42:30Z" finished-at="2018-03-08T17:42:31Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnSonyAddToCartBtnTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="setResults" is-config="true" duration-ms="131" started-at="2018-03-08T17:42:31Z" finished-at="2018-03-08T17:42:31Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnSonyAddToCartBtnTest status=SUCCESS method=MobilePageTest.ClickOnSonyAddToCartBtnTest()[pri:5, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="setUp" is-config="true" duration-ms="7826" started-at="2018-03-08T17:42:31Z" finished-at="2018-03-08T17:42:39Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ComparePricesTest()[pri:6, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="ComparePricesTest" duration-ms="1727" started-at="2018-03-08T17:42:39Z" finished-at="2018-03-08T17:42:41Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ComparePricesTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce]" name="setResults" is-config="true" duration-ms="137" started-at="2018-03-08T17:42:41Z" finished-at="2018-03-08T17:42:41Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ComparePricesTest status=SUCCESS method=MobilePageTest.ComparePricesTest()[pri:6, instance:com.guru99.qa.TestCases.MobilePageTest@61dc03ce] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.MobilePageTest -->
+    </test> <!-- MobilePageTest -->
+    <test name="MyAcctTest" duration-ms="29991" started-at="2018-03-08T23:42:41Z" finished-at="2018-03-08T23:43:11Z">
+      <class name="com.guru99.qa.TestCases.MyAcctTest">
+        <test-method status="FAIL" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyAcctTest@26f67b76]" name="setUp" is-config="true" duration-ms="29975" started-at="2018-03-08T17:42:41Z" finished-at="2018-03-08T17:43:11Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 24700, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 4087d858-0302-4421-8a30-63896e5e612e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 24700, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 4087d858-0302-4421-8a30-63896e5e612e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:193)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy12.getText(Unknown Source)
+	at com.guru99.qa.WebPages.CreateNewCustomerAcctPage.ValidRegistration(CreateNewCustomerAcctPage.java:54)
+	at com.guru99.qa.TestCases.MyAcctTest.setUp(MyAcctTest.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:523)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:224)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:599)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="SKIP" signature="verifyAllTest()[pri:1, instance:com.guru99.qa.TestCases.MyAcctTest@26f67b76]" name="verifyAllTest" duration-ms="0" started-at="2018-03-08T17:43:11Z" finished-at="2018-03-08T17:43:11Z">
+          <exception class="org.openqa.selenium.NoSuchElementException">
+            <message>
+              <![CDATA[Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 24700, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 4087d858-0302-4421-8a30-63896e5e612e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}]]>
+            </message>
+            <full-stacktrace>
+              <![CDATA[org.openqa.selenium.NoSuchElementException: Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 24700, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 4087d858-0302-4421-8a30-63896e5e612e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
+	at sun.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
+	at sun.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
+	at java.lang.reflect.Constructor.newInstance(Constructor.java:423)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
+	at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
+	at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:164)
+	at org.openqa.selenium.remote.service.DriverCommandExecutor.execute(DriverCommandExecutor.java:83)
+	at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:600)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:370)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElementByXPath(RemoteWebDriver.java:472)
+	at org.openqa.selenium.By$ByXPath.findElement(By.java:361)
+	at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:362)
+	at sun.reflect.GeneratedMethodAccessor4.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.openqa.selenium.support.events.EventFiringWebDriver$2.invoke(EventFiringWebDriver.java:109)
+	at com.sun.proxy.$Proxy8.findElement(Unknown Source)
+	at org.openqa.selenium.support.events.EventFiringWebDriver.findElement(EventFiringWebDriver.java:193)
+	at org.openqa.selenium.support.pagefactory.DefaultElementLocator.findElement(DefaultElementLocator.java:69)
+	at org.openqa.selenium.support.pagefactory.internal.LocatingElementHandler.invoke(LocatingElementHandler.java:38)
+	at com.sun.proxy.$Proxy12.getText(Unknown Source)
+	at com.guru99.qa.WebPages.CreateNewCustomerAcctPage.ValidRegistration(CreateNewCustomerAcctPage.java:54)
+	at com.guru99.qa.TestCases.MyAcctTest.setUp(MyAcctTest.java:45)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:108)
+	at org.testng.internal.Invoker.invokeConfigurationMethod(Invoker.java:523)
+	at org.testng.internal.Invoker.invokeConfigurations(Invoker.java:224)
+	at org.testng.internal.Invoker.invokeMethod(Invoker.java:599)
+	at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:869)
+	at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:1193)
+	at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:126)
+	at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
+	at org.testng.TestRunner.privateRun(TestRunner.java:744)
+	at org.testng.TestRunner.run(TestRunner.java:602)
+	at org.testng.SuiteRunner.runTest(SuiteRunner.java:380)
+	at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:375)
+	at org.testng.SuiteRunner.privateRun(SuiteRunner.java:340)
+	at org.testng.SuiteRunner.run(SuiteRunner.java:289)
+	at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
+	at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:86)
+	at org.testng.TestNG.runSuitesSequentially(TestNG.java:1301)
+	at org.testng.TestNG.runSuitesLocally(TestNG.java:1226)
+	at org.testng.TestNG.runSuites(TestNG.java:1144)
+	at org.testng.TestNG.run(TestNG.java:1115)
+	at org.apache.maven.surefire.testng.TestNGExecutor.run(TestNGExecutor.java:283)
+	at org.apache.maven.surefire.testng.TestNGXmlTestSuite.execute(TestNGXmlTestSuite.java:75)
+	at org.apache.maven.surefire.testng.TestNGProvider.invoke(TestNGProvider.java:120)
+	at org.apache.maven.surefire.booter.ForkedBooter.invokeProviderInSameClassLoader(ForkedBooter.java:386)
+	at org.apache.maven.surefire.booter.ForkedBooter.runSuitesInProcess(ForkedBooter.java:323)
+	at org.apache.maven.surefire.booter.ForkedBooter.main(ForkedBooter.java:143)
+]]>
+            </full-stacktrace>
+          </exception> <!-- org.openqa.selenium.NoSuchElementException -->
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyAllTest -->
+      </class> <!-- com.guru99.qa.TestCases.MyAcctTest -->
+    </test> <!-- MyAcctTest -->
+    <test name="MyOrderPageTest" duration-ms="21408" started-at="2018-03-08T23:43:11Z" finished-at="2018-03-08T23:43:32Z">
+      <class name="com.guru99.qa.TestCases.MyOrderPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyOrderPageTest@59e84876]" name="setUp" is-config="true" duration-ms="11578" started-at="2018-03-08T17:43:11Z" finished-at="2018-03-08T17:43:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.MyOrderPageTest@59e84876]" name="verifyPageTitleTest" duration-ms="11" started-at="2018-03-08T17:43:23Z" finished-at="2018-03-08T17:43:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MyOrderPageTest@59e84876]" name="setResults" is-config="true" duration-ms="136" started-at="2018-03-08T17:43:23Z" finished-at="2018-03-08T17:43:23Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPageTitleTest status=SUCCESS method=MyOrderPageTest.verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.MyOrderPageTest@59e84876] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyOrderPageTest@59e84876]" name="setUp" is-config="true" duration-ms="9219" started-at="2018-03-08T17:43:23Z" finished-at="2018-03-08T17:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnViewOrderLinkTest()[pri:2, instance:com.guru99.qa.TestCases.MyOrderPageTest@59e84876]" name="ClickOnViewOrderLinkTest" duration-ms="353" started-at="2018-03-08T17:43:32Z" finished-at="2018-03-08T17:43:32Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnViewOrderLinkTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MyOrderPageTest@59e84876]" name="setResults" is-config="true" duration-ms="109" started-at="2018-03-08T17:43:32Z" finished-at="2018-03-08T17:43:32Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnViewOrderLinkTest status=SUCCESS method=MyOrderPageTest.ClickOnViewOrderLinkTest()[pri:2, instance:com.guru99.qa.TestCases.MyOrderPageTest@59e84876] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.MyOrderPageTest -->
+    </test> <!-- MyOrderPageTest -->
+    <test name="MyWishlistPageTest" duration-ms="20189" started-at="2018-03-08T23:43:32Z" finished-at="2018-03-08T23:43:53Z">
+      <class name="com.guru99.qa.TestCases.MyWishlistPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4590c9c3]" name="setUp" is-config="true" duration-ms="9445" started-at="2018-03-08T17:43:32Z" finished-at="2018-03-08T17:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4590c9c3]" name="verifyPageTitleTest" duration-ms="4" started-at="2018-03-08T17:43:42Z" finished-at="2018-03-08T17:43:42Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4590c9c3]" name="setResults" is-config="true" duration-ms="127" started-at="2018-03-08T17:43:42Z" finished-at="2018-03-08T17:43:42Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPageTitleTest status=SUCCESS method=MyWishlistPageTest.verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4590c9c3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4590c9c3]" name="setUp" is-config="true" duration-ms="10038" started-at="2018-03-08T17:43:42Z" finished-at="2018-03-08T17:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnShareWishListTest()[pri:2, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4590c9c3]" name="ClickOnShareWishListTest" duration-ms="439" started-at="2018-03-08T17:43:52Z" finished-at="2018-03-08T17:43:52Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnShareWishListTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4590c9c3]" name="setResults" is-config="true" duration-ms="136" started-at="2018-03-08T17:43:52Z" finished-at="2018-03-08T17:43:53Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnShareWishListTest status=SUCCESS method=MyWishlistPageTest.ClickOnShareWishListTest()[pri:2, instance:com.guru99.qa.TestCases.MyWishlistPageTest@4590c9c3] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.MyWishlistPageTest -->
+    </test> <!-- MyWishlistPageTest -->
+    <test name="OrderNumberPageTest" duration-ms="12216" started-at="2018-03-08T23:43:53Z" finished-at="2018-03-08T23:44:05Z">
+      <class name="com.guru99.qa.TestCases.OrderNumberPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.OrderNumberPageTest@5afa04c]" name="setUp" is-config="true" duration-ms="11619" started-at="2018-03-08T17:43:53Z" finished-at="2018-03-08T17:44:04Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnPrintOrderTest()[pri:3, instance:com.guru99.qa.TestCases.OrderNumberPageTest@5afa04c]" name="ClickOnPrintOrderTest" duration-ms="426" started-at="2018-03-08T17:44:04Z" finished-at="2018-03-08T17:44:05Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ClickOnPrintOrderTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.OrderNumberPageTest@5afa04c]" name="setResults" is-config="true" duration-ms="171" started-at="2018-03-08T17:44:05Z" finished-at="2018-03-08T17:44:05Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnPrintOrderTest status=SUCCESS method=OrderNumberPageTest.ClickOnPrintOrderTest()[pri:3, instance:com.guru99.qa.TestCases.OrderNumberPageTest@5afa04c] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.OrderNumberPageTest -->
+    </test> <!-- OrderNumberPageTest -->
+    <test name="ShoppingCartTest" duration-ms="44425" started-at="2018-03-08T23:44:05Z" finished-at="2018-03-08T23:44:49Z">
+      <class name="com.guru99.qa.TestCases.ShoppingCartTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="10558" started-at="2018-03-08T17:44:05Z" finished-at="2018-03-08T17:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb]" name="verifyPageTitleTest" duration-ms="4" started-at="2018-03-08T17:44:15Z" finished-at="2018-03-08T17:44:15Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb]" name="setResults" is-config="true" duration-ms="127" started-at="2018-03-08T17:44:15Z" finished-at="2018-03-08T17:44:15Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPageTitleTest status=SUCCESS method=ShoppingCartTest.verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="10634" started-at="2018-03-08T17:44:15Z" finished-at="2018-03-08T17:44:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnProceedToCheckOutTest()[pri:2, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb]" name="ClickOnProceedToCheckOutTest" duration-ms="485" started-at="2018-03-08T17:44:26Z" finished-at="2018-03-08T17:44:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnProceedToCheckOutTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb]" name="setResults" is-config="true" duration-ms="138" started-at="2018-03-08T17:44:27Z" finished-at="2018-03-08T17:44:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnProceedToCheckOutTest status=SUCCESS method=ShoppingCartTest.ClickOnProceedToCheckOutTest()[pri:2, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="10550" started-at="2018-03-08T17:44:27Z" finished-at="2018-03-08T17:44:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickAndUpdateQtyFieldTest()[pri:3, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb]" name="ClickAndUpdateQtyFieldTest" duration-ms="666" started-at="2018-03-08T17:44:37Z" finished-at="2018-03-08T17:44:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickAndUpdateQtyFieldTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb]" name="setResults" is-config="true" duration-ms="108" started-at="2018-03-08T17:44:38Z" finished-at="2018-03-08T17:44:38Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickAndUpdateQtyFieldTest status=SUCCESS method=ShoppingCartTest.ClickAndUpdateQtyFieldTest()[pri:3, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb]" name="setUp" is-config="true" duration-ms="10872" started-at="2018-03-08T17:44:38Z" finished-at="2018-03-08T17:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTotalPriceTest()[pri:4, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb]" name="verifyTotalPriceTest" duration-ms="53" started-at="2018-03-08T17:44:49Z" finished-at="2018-03-08T17:44:49Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTotalPriceTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb]" name="setResults" is-config="true" duration-ms="229" started-at="2018-03-08T17:44:49Z" finished-at="2018-03-08T17:44:49Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTotalPriceTest status=SUCCESS method=ShoppingCartTest.verifyTotalPriceTest()[pri:4, instance:com.guru99.qa.TestCases.ShoppingCartTest@6a2bcfcb] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.ShoppingCartTest -->
+    </test> <!-- ShoppingCartTest -->
+    <test name="SonyCheckOutTest" duration-ms="28474" started-at="2018-03-08T23:44:49Z" finished-at="2018-03-08T23:45:18Z">
+      <class name="com.guru99.qa.TestCases.SonyCheckOutTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.SonyCheckOutTest@5ae9a829]" name="setUp" is-config="true" duration-ms="9728" started-at="2018-03-08T17:44:49Z" finished-at="2018-03-08T17:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySonyCheckOutPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.SonyCheckOutTest@5ae9a829]" name="verifySonyCheckOutPageTitleTest" duration-ms="7" started-at="2018-03-08T17:44:59Z" finished-at="2018-03-08T17:44:59Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifySonyCheckOutPageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.SonyCheckOutTest@5ae9a829]" name="setResults" is-config="true" duration-ms="133" started-at="2018-03-08T17:44:59Z" finished-at="2018-03-08T17:44:59Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySonyCheckOutPageTitleTest status=SUCCESS method=SonyCheckOutTest.verifySonyCheckOutPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.SonyCheckOutTest@5ae9a829] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.SonyCheckOutTest@5ae9a829]" name="setUp" is-config="true" duration-ms="7898" started-at="2018-03-08T17:44:59Z" finished-at="2018-03-08T17:45:07Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyErrorMsgTest()[pri:2, instance:com.guru99.qa.TestCases.SonyCheckOutTest@5ae9a829]" name="verifyErrorMsgTest" duration-ms="1474" started-at="2018-03-08T17:45:07Z" finished-at="2018-03-08T17:45:09Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyErrorMsgTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.SonyCheckOutTest@5ae9a829]" name="setResults" is-config="true" duration-ms="154" started-at="2018-03-08T17:45:09Z" finished-at="2018-03-08T17:45:09Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyErrorMsgTest status=SUCCESS method=SonyCheckOutTest.verifyErrorMsgTest()[pri:2, instance:com.guru99.qa.TestCases.SonyCheckOutTest@5ae9a829] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.SonyCheckOutTest@5ae9a829]" name="setUp" is-config="true" duration-ms="8416" started-at="2018-03-08T17:45:09Z" finished-at="2018-03-08T17:45:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyEmptyCartMsgTest()[pri:3, instance:com.guru99.qa.TestCases.SonyCheckOutTest@5ae9a829]" name="verifyEmptyCartMsgTest" duration-ms="496" started-at="2018-03-08T17:45:17Z" finished-at="2018-03-08T17:45:18Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifyEmptyCartMsgTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.SonyCheckOutTest@5ae9a829]" name="setResults" is-config="true" duration-ms="155" started-at="2018-03-08T17:45:18Z" finished-at="2018-03-08T17:45:18Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyEmptyCartMsgTest status=SUCCESS method=SonyCheckOutTest.verifyEmptyCartMsgTest()[pri:3, instance:com.guru99.qa.TestCases.SonyCheckOutTest@5ae9a829] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.SonyCheckOutTest -->
+    </test> <!-- SonyCheckOutTest -->
+    <test name="SonyDetailedPageTest" duration-ms="28071" started-at="2018-03-08T23:45:18Z" finished-at="2018-03-08T23:45:46Z">
+      <class name="com.guru99.qa.TestCases.SonyDetailedPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@1810399e]" name="setUp" is-config="true" duration-ms="8774" started-at="2018-03-08T17:45:18Z" finished-at="2018-03-08T17:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="PageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@1810399e]" name="PageTitleTest" duration-ms="5" started-at="2018-03-08T17:45:27Z" finished-at="2018-03-08T17:45:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@1810399e]" name="setResults" is-config="true" duration-ms="262" started-at="2018-03-08T17:45:27Z" finished-at="2018-03-08T17:45:27Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=PageTitleTest status=SUCCESS method=SonyDetailedPageTest.PageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@1810399e] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@1810399e]" name="setUp" is-config="true" duration-ms="9191" started-at="2018-03-08T17:45:27Z" finished-at="2018-03-08T17:45:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifySonyCostTest()[pri:2, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@1810399e]" name="verifySonyCostTest" duration-ms="185" started-at="2018-03-08T17:45:36Z" finished-at="2018-03-08T17:45:36Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- verifySonyCostTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@1810399e]" name="setResults" is-config="true" duration-ms="142" started-at="2018-03-08T17:45:36Z" finished-at="2018-03-08T17:45:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifySonyCostTest status=SUCCESS method=SonyDetailedPageTest.verifySonyCostTest()[pri:2, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@1810399e] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@1810399e]" name="setUp" is-config="true" duration-ms="9141" started-at="2018-03-08T17:45:36Z" finished-at="2018-03-08T17:45:46Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="CompareSonyCostTest()[pri:3, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@1810399e]" name="CompareSonyCostTest" duration-ms="219" started-at="2018-03-08T17:45:46Z" finished-at="2018-03-08T17:45:46Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- CompareSonyCostTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@1810399e]" name="setResults" is-config="true" duration-ms="152" started-at="2018-03-08T17:45:46Z" finished-at="2018-03-08T17:45:46Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=CompareSonyCostTest status=SUCCESS method=SonyDetailedPageTest.CompareSonyCostTest()[pri:3, instance:com.guru99.qa.TestCases.SonyDetailedPageTest@1810399e] output=<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.SonyDetailedPageTest -->
+    </test> <!-- SonyDetailedPageTest -->
+    <test name="TvPageTest" duration-ms="16359" started-at="2018-03-08T23:45:46Z" finished-at="2018-03-08T23:46:02Z">
+      <class name="com.guru99.qa.TestCases.TvPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.TvPageTest@56f4468b]" name="setUp" is-config="true" duration-ms="8086" started-at="2018-03-08T17:45:46Z" finished-at="2018-03-08T17:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTvPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.TvPageTest@56f4468b]" name="verifyTvPageTitleTest" duration-ms="3" started-at="2018-03-08T17:45:54Z" finished-at="2018-03-08T17:45:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTvPageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.TvPageTest@56f4468b]" name="setResults" is-config="true" duration-ms="127" started-at="2018-03-08T17:45:54Z" finished-at="2018-03-08T17:45:54Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTvPageTitleTest status=SUCCESS method=TvPageTest.verifyTvPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.TvPageTest@56f4468b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.TvPageTest@56f4468b]" name="setUp" is-config="true" duration-ms="7787" started-at="2018-03-08T17:45:54Z" finished-at="2018-03-08T17:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="ClickOnLgAddToWishListTest()[pri:2, instance:com.guru99.qa.TestCases.TvPageTest@56f4468b]" name="ClickOnLgAddToWishListTest" duration-ms="129" started-at="2018-03-08T17:46:02Z" finished-at="2018-03-08T17:46:02Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ClickOnLgAddToWishListTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.TvPageTest@56f4468b]" name="setResults" is-config="true" duration-ms="226" started-at="2018-03-08T17:46:02Z" finished-at="2018-03-08T17:46:02Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=ClickOnLgAddToWishListTest status=SUCCESS method=TvPageTest.ClickOnLgAddToWishListTest()[pri:2, instance:com.guru99.qa.TestCases.TvPageTest@56f4468b] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.TvPageTest -->
+    </test> <!-- TvPageTest -->
+    <test name="WishlistSharingPageTest" duration-ms="21719" started-at="2018-03-08T23:46:02Z" finished-at="2018-03-08T23:46:24Z">
+      <class name="com.guru99.qa.TestCases.WishlistSharingPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.WishlistSharingPageTest@6d00a15d]" name="setUp" is-config="true" duration-ms="10574" started-at="2018-03-08T17:46:02Z" finished-at="2018-03-08T17:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.WishlistSharingPageTest@6d00a15d]" name="verifyPageTitleTest" duration-ms="3" started-at="2018-03-08T17:46:13Z" finished-at="2018-03-08T17:46:13Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyPageTitleTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.WishlistSharingPageTest@6d00a15d]" name="setResults" is-config="true" duration-ms="182" started-at="2018-03-08T17:46:13Z" finished-at="2018-03-08T17:46:13Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyPageTitleTest status=SUCCESS method=WishlistSharingPageTest.verifyPageTitleTest()[pri:1, instance:com.guru99.qa.TestCases.WishlistSharingPageTest@6d00a15d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.WishlistSharingPageTest@6d00a15d]" name="setUp" is-config="true" duration-ms="10165" started-at="2018-03-08T17:46:13Z" finished-at="2018-03-08T17:46:23Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="EnterValuesAndClickTest()[pri:2, instance:com.guru99.qa.TestCases.WishlistSharingPageTest@6d00a15d]" name="EnterValuesAndClickTest" duration-ms="546" started-at="2018-03-08T17:46:23Z" finished-at="2018-03-08T17:46:24Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- EnterValuesAndClickTest -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.WishlistSharingPageTest@6d00a15d]" name="setResults" is-config="true" duration-ms="249" started-at="2018-03-08T17:46:24Z" finished-at="2018-03-08T17:46:24Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=EnterValuesAndClickTest status=SUCCESS method=WishlistSharingPageTest.EnterValuesAndClickTest()[pri:2, instance:com.guru99.qa.TestCases.WishlistSharingPageTest@6d00a15d] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+      </class> <!-- com.guru99.qa.TestCases.WishlistSharingPageTest -->
+    </test> <!-- WishlistSharingPageTest -->
+    <test name="ChangeOrReorderTest" duration-ms="13067" started-at="2018-03-08T23:46:24Z" finished-at="2018-03-08T23:46:37Z">
+      <class name="com.guru99.qa.TestCases.ChangeOrReorderTest">
+        <test-method status="PASS" signature="setExtent()[pri:0, instance:com.guru99.qa.TestCases.ChangeOrReorderTest@62ee68d8]" name="setExtent" is-config="true" duration-ms="141" started-at="2018-03-08T17:40:34Z" finished-at="2018-03-08T17:40:34Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setExtent -->
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.guru99.qa.TestCases.ChangeOrReorderTest@62ee68d8]" name="setUp" is-config="true" duration-ms="12840" started-at="2018-03-08T17:46:24Z" finished-at="2018-03-08T17:46:37Z">
+          <reporter-output>
+            <line>
+              <![CDATA[<br><img src=C:\Selenium_Projects\Guru99ECommerceApplicationheight-'400' width-'400'/><br>]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="verifyTitle()[pri:0, instance:com.guru99.qa.TestCases.ChangeOrReorderTest@62ee68d8]" name="verifyTitle" duration-ms="15" started-at="2018-03-08T17:46:37Z" finished-at="2018-03-08T17:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyTitle -->
+        <test-method status="PASS" signature="setResults(org.testng.ITestResult)[pri:0, instance:com.guru99.qa.TestCases.ChangeOrReorderTest@62ee68d8]" name="setResults" is-config="true" duration-ms="203" started-at="2018-03-08T17:46:37Z" finished-at="2018-03-08T17:46:37Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=verifyTitle status=SUCCESS method=ChangeOrReorderTest.verifyTitle()[pri:0, instance:com.guru99.qa.TestCases.ChangeOrReorderTest@62ee68d8] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setResults -->
+        <test-method status="PASS" signature="endReport()[pri:0, instance:com.guru99.qa.TestCases.ChangeOrReorderTest@62ee68d8]" name="endReport" is-config="true" duration-ms="219" started-at="2018-03-08T17:46:37Z" finished-at="2018-03-08T17:46:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endReport -->
+      </class> <!-- com.guru99.qa.TestCases.ChangeOrReorderTest -->
+    </test> <!-- ChangeOrReorderTest -->
+  </suite> <!-- Guru99 Bank Application Test Automation Test Suite -->
+</testng-results>

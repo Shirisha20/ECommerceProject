@@ -1,0 +1,16 @@
+-------------------------------------------------------------------------------
+Test set: TestSuite
+-------------------------------------------------------------------------------
+Tests run: 35, Failures: 1, Errors: 0, Skipped: 1, Time elapsed: 363.936 s <<< FAILURE! - in TestSuite
+setUp(com.guru99.qa.TestCases.MyAcctTest)  Time elapsed: 31.855 s  <<< FAILURE!
+org.openqa.selenium.NoSuchElementException: 
+Unable to locate element: /html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span
+For documentation on this error, please visit: http://seleniumhq.org/exceptions/no_such_element.html
+Build info: version: '3.7.1', revision: '8a0099a', time: '2017-11-06T21:01:39.354Z'
+System info: host: 'NALLANS-NEWPC', ip: '192.168.186.1', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '1.8.0_151'
+Driver info: org.openqa.selenium.firefox.FirefoxDriver
+Capabilities {acceptInsecureCerts: true, browserName: firefox, browserVersion: 56.0, javascriptEnabled: true, moz:accessibilityChecks: false, moz:headless: false, moz:processID: 24700, moz:profile: C:\Users\venka\AppData\Loca..., pageLoadStrategy: normal, platform: XP, platformName: XP, platformVersion: 10.0, rotatable: false, specificationLevel: 0, timeouts: {implicit: 0, pageLoad: 300000, script: 30000}}
+Session ID: 4087d858-0302-4421-8a30-63896e5e612e
+*** Element info: {Using=xpath, value=/html/body/div/div/div[2]/div/div[2]/div/div/ul/li/ul/li/span}
+	at com.guru99.qa.TestCases.MyAcctTest.setUp(MyAcctTest.java:45)
+

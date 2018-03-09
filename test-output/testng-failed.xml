@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Guru99 Bank Application Test Automation Test Suite]">
+  <listeners>
+    <listener class-name="com.guru99.qa.Listener.Listener"/>
+    <listener class-name="com.guru99.qa.Analyzer.MyTransform"/>
+  </listeners>
+  <test name="MyAcctTest(failed)">
+    <classes>
+      <class name="com.guru99.qa.TestCases.MyAcctTest">
+        <methods>
+          <include name="setResults"/>
+          <include name="setUp"/>
+          <include name="setExtent"/>
+          <include name="verifyAllTest"/>
+          <include name="endReport"/>
+        </methods>
+      </class> <!-- com.guru99.qa.TestCases.MyAcctTest -->
+    </classes>
+  </test> <!-- MyAcctTest(failed) -->
+  <test name="MyWishlistPageTest(failed)">
+    <classes>
+      <class name="com.guru99.qa.TestCases.MyWishlistPageTest">
+        <methods>
+          <include name="setResults"/>
+          <include name="setExtent"/>
+          <include name="ClickOnShareWishListTest"/>
+          <include name="endReport"/>
+          <include name="setUp"/>
+        </methods>
+      </class> <!-- com.guru99.qa.TestCases.MyWishlistPageTest -->
+    </classes>
+  </test> <!-- MyWishlistPageTest(failed) -->
+  <test name="WishlistSharingPageTest(failed)">
+    <classes>
+      <class name="com.guru99.qa.TestCases.WishlistSharingPageTest">
+        <methods>
+          <include name="EnterValuesAndClickTest"/>
+          <include name="setResults"/>
+          <include name="setExtent"/>
+          <include name="verifyPageTitleTest"/>
+          <include name="setUp"/>
+          <include name="endReport"/>
+        </methods>
+      </class> <!-- com.guru99.qa.TestCases.WishlistSharingPageTest -->
+    </classes>
+  </test> <!-- WishlistSharingPageTest(failed) -->
+</suite> <!-- Failed suite [Guru99 Bank Application Test Automation Test Suite] -->
