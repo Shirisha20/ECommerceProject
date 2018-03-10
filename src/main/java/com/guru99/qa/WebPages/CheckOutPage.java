@@ -79,7 +79,7 @@ public class CheckOutPage extends TestBase {
 		CityField.sendKeys(City);
 		StateField.click();
 		Select selectState = new Select(StateField);
-		selectState.selectByIndex(43);
+		selectState.selectByVisibleText("New York");
 		ZipField.clear();
 		ZipField.sendKeys(Zip);
 		TelephoneField.clear();

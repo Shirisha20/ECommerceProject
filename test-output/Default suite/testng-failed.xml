@@ -3,16 +3,15 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="com.guru99.qa.TestCases.WishlistSharingPageTest">
+      <class name="com.guru99.qa.TestCases.ChangeOrReorderTest">
         <methods>
-          <include name="EnterValuesAndClickTest"/>
           <include name="setResults"/>
           <include name="setExtent"/>
-          <include name="verifyPageTitleTest"/>
+          <include name="verifyTitle"/>
           <include name="setUp"/>
           <include name="endReport"/>
         </methods>
-      </class> <!-- com.guru99.qa.TestCases.WishlistSharingPageTest -->
+      </class> <!-- com.guru99.qa.TestCases.ChangeOrReorderTest -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

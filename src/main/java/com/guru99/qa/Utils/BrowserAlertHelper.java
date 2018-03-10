@@ -62,14 +62,19 @@ public class BrowserAlertHelper {
 		Set<String> handler = driver.getWindowHandles();
 		Iterator<String> it = handler.iterator();
 		String parentWindowId = it.next();
-		System.out.println("parent window id:" + parentWindowId);
+		System.out.println("parent window id:" + "  " + parentWindowId);
 		String childWindowId = it.next();
-		System.out.println("Child window id:" + childWindowId);
+		System.out.println("Child window id:" + " " + childWindowId);
 		driver.switchTo().window(childWindowId);
-		System.out.println("child window pop up title" + driver.getTitle());
+		try {
+			Thread.sleep(2000);
+		} catch (InterruptedException e) {
+			e.printStackTrace();
+		}
+		System.out.println("child window pop up title :" + " " + driver.getTitle());
 		driver.close();
 		driver.switchTo().window(parentWindowId);
-		System.out.println("parent window title" + driver.getTitle());
+		System.out.println("parent window title :" + " " + driver.getTitle());
 	}
 
 }

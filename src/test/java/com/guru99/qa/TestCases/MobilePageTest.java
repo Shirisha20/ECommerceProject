@@ -94,4 +94,11 @@ public class MobilePageTest extends TestBase {
 
 	}
 
+	// Clicking on IPhone AddToCart Button
+	@Test(priority = 0)
+	public void ClickOnIPhoneAddToCartTest() {
+		extentTest = extentReports.startTest("ClickOnIPhoneAddToCartTest");
+		mobilePage.ClickOnIPhoneAddToCart();
+	}
+
 }

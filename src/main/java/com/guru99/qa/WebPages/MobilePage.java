@@ -56,6 +56,9 @@ public class MobilePage extends TestBase {
 	@FindBy(xpath = "//span[contains(text(), '$100')]")
 	WebElement SonyPrice;
 
+	@FindBy(xpath = "//span[contains(text(), '$500')]//following::span[contains(text(), 'Add to Cart')]")
+	WebElement IPhoneAddToCart;
+
 	// Initializing the Page Objects:
 	public MobilePage() {
 		PageFactory.initElements(driver, this);
@@ -106,6 +109,12 @@ public class MobilePage extends TestBase {
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
+	}
+
+	// Clicking on IPhone AddToCart Button
+	public ShoppingCartPage ClickOnIPhoneAddToCart() {
+		IPhoneAddToCart.click();
+		return new ShoppingCartPage();
 	}
 
 }
